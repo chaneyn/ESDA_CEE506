@@ -59,7 +59,7 @@ Note that the schedule is subject to change; changes will be announced in class 
 |08/29|Python overview|Python||
 |09/03|Multi-dimensional arrays I|Numpy|HW #1 due|
 |09/05|Visualizing data I|Matplotlib/Seaborn||Reza and Nate|
-|09/10|Coordinate systems|Rasterio|HW #2 due|
+|09/10|Raster data|Rasterio|HW #2 due|
 |09/12|Data storage|Pickle/h5py/netCDF||TBD|
 |09/17|Visualizing data II|Cartopy|HW #3 due|
 |09/19|Multi-dimensional arrays II|Xarray||TBD|
