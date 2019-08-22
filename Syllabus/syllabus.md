@@ -5,14 +5,15 @@
 Lectures are on Tuesdays and Thursdays from 11:45 AM - 1:00 PM in Teer 106. Course website on Github (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai.
 
 ### Instructor
-Professor Nathaniel W. Chaney (Nate)
-nathaniel.chaney@duke.edu
-FCIEMAS 2463
+Professor Nathaniel W. Chaney (Nate)  
+Email: nathaniel.chaney@duke.edu  
+Office: FCIEMAS 2463  
+Office hours:  
 
 ### TA
-Reza Momenifar 
-mohammadreza.momenifar@duke.edu
-FCIEMAS 2421
+Reza Momenifar  
+Email: mohammadreza.momenifar@duke.edu  
+Office: FCIEMAS 2421  
 
 ## Course Description
 This course...
@@ -23,7 +24,7 @@ Although there are no class prerequisistes, a strong foundation in programming w
 ## Readings
 There are no required textbooks. Reading will be provided via journal articles, online materials, and tutorials
 
-## Grades and Workload
+## Grades and wfaorkload
 The course grade is based on three items:
 * Homework: 40%
 * Participation: 20%
@@ -48,5 +49,40 @@ The final project includes three components:
 * Oral presentation (April 23rd-25th in class)*
   * AGU style, 12 minute oral presentation, 3 minutes for questions
   * Everyone needs to be present for each presentation
+  
+### Schedule
+Note that the schedule is subject to change; changes will be announced in class and the online syllabus will be updated.
 
-
+|Date|Topic|New Software|Assignments|
+|-|:-:|:-:|-|
+|08/27|Introduction|Jupyter/Github/and Bash||
+|08/29|Python overview|Python||
+|09/03|Multi-dimensional arrays I|Numpy|HW #1 due|
+|09/05|Visualizing data I|Matplotlib/Seaborn||
+|09/10|Coordinate systems|Rasterio|HW #2 due|
+|09/12|Data storage|Pickle/h5py/netCDF||
+|09/17|Visualizing data II|Cartopy|HW #3 due|
+|09/19|Multi-dimensional arrays II|Xarray||
+|09/24|Data Analysis I|Scipy|HW #4 due|
+|09/26|Data Analysis II|||
+|10/01|Data Analysis III|R/RPY2|HW #5 due|
+|10/03|Data Analysis IV|||
+|10/08|Fall Break|||
+|10/10|Geostatistics I|gstat||
+|10/15|Geostatistics II||HW #6 due|
+|10/17|Geostatistics III|||
+|10/22|Geostatistics IV|||
+|10/24|Geostatistics V|scikit-learn||
+|10/29|Geostatistics VI||HW #7 due|
+|10/31|Dimensionality Reduction I|||
+|11/05|Dimensionality Reduction II|||
+|11/07|Dimensionality Reduction IV|||
+|11/12|Dimensionality Reduction VI||HW #8 due|
+|11/14||||
+|11/19||||
+|11/21||||
+|11/26|||HW #9 due|
+|11/28|Thanksgiving Break|||
+|12/03|Oral Presentations|||
+|12/05|Oral Presentations|||
+|12/16|Written report due||| 
