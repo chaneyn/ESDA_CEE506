@@ -2,20 +2,26 @@
 ## Fall 2019
 
 ## Course Information
-Lectures are on Tuesdays and Thursdays from 11:45 AM - 1:00 PM in Teer 106. Course website on Github (https://github.com/chaneyn/CEE690-02). 
+Lectures are on Tuesdays and Thursdays from 11:45 AM - 1:00 PM in Teer 106. Course website on Github (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai.
 
+### Instructor
 Professor Nathaniel W. Chaney (Nate)
 nathaniel.chaney@duke.edu
 FCIEMAS 2463
+
+### TA
+Reza Momenifar 
+mohammadreza.momenifar@duke.edu
+FCIEMAS 2421
 
 ## Course Description
 This course...
 
 ## Prerequisites
-Although there are no class prerequisistes, a strong foundation in programming will make this class much easier. Please contact me with concerns. 
+Although there are no class prerequisistes, a strong foundation in programming will make this class much easier. Please contact me if you have concerns. 
 
 ## Readings
-There are no required textbooks. Reading will be provided via journal publications, online materials, and tutorials
+There are no required textbooks. Reading will be provided via journal articles, online materials, and tutorials
 
 ## Grades and Workload
 The course grade is based on three items:
@@ -27,7 +33,9 @@ The course grade is based on three items:
 There will be 8 homework assignments; these...
 
 ### Participation
-Students should prepare for class by reading the assigned textbook sections and journal articles.  Each Tuesday we will begin with a 30 minute discussion of assigned journal article(s);  each student will need to lead at least one of these discussions.  Students should participate at least once in each article discussion and at least once in each class lecture
+* Students should bring a laptop to class to follow along the lecture on their own jupyter lab Docker container that they are using for the course. 
+* Most Tuesdays we will begin with a 15-30 minute review of the previous week's assignment. Groups of 1-2 students will present and discuss the solutions to the assignment. 
+* We will be using Piazza for most communication outside of class. This will facilitate interaction among the class members which will make it easier to work through the assignments. 
 
 ### Collaboration
 Collaboration in completing assignments is permitted. However, each student should write up their assignment independently. We will be checking for nearly identical homeworks. 
