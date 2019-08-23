@@ -77,9 +77,9 @@ Note that the schedule is subject to change; changes will be announced in class 
 |10/31|Random Forests|||TBD|
 |11/05|Dimensionality Reduction|||
 |11/07|Principal Component Analysis|||
-|11/12|Clustering I|||
-|11/14|Clustering II||HW #8 due|
-|11/19|High performance computing I|dask||TBD|
+|11/12|Clustering I||HW #8 due||
+|11/14|Clustering II|||TBD|
+|11/19|High performance computing I|dask|||
 |11/21|High performance computing II|mpi4py||
 |11/26|TBD||HW #9 due||
 |11/28|Thanksgiving Break|||
