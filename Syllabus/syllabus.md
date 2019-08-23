@@ -60,13 +60,13 @@ Note that the schedule is subject to change; changes will be announced in class 
 |09/03|Multi-dimensional arrays I|Numpy|HW #1 due|
 |09/05|Visualizing data I|Matplotlib/Seaborn||Reza and Nate|
 |09/10|Raster data|Rasterio|HW #2 due|
-|09/12|Data storage|Pickle/h5py/netCDF||TBD|
-|09/17|Visualizing data II|Cartopy|HW #3 due|
-|09/19|Multi-dimensional arrays II|Xarray||TBD|
-|09/24|Data Analysis I|Scipy|HW #4 due|
-|09/26|Data Analysis II|||TBD|
-|10/01|Data Analysis III|R/RPY2|HW #5 due|
-|10/03|Data Analysis IV|||TBD|
+|09/12|Data storage|Pickle/h5py/netCDF/Tiff||TBD|
+|09/17|Multi-dimensional arrays II|Xarray||TBD|
+|09/19|Coordinate systems|GDAL|HW #4 due|
+|09/24|Coordinate transformations|||TBD|
+|09/26|Visualizing data II|Cartopy|HW #3 due|
+|10/01|Data Analysis I|Scipy|HW #5 due|
+|10/03|Data Analysis II|||TBD|
 |10/08|Fall Break|||
 |10/10|R overview|R/Rpy2||
 |10/15|Spatial interpolation|gstat|HW #6 due|
