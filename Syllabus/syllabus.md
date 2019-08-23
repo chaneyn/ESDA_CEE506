@@ -43,11 +43,17 @@ Collaboration in completing assignments is permitted. However, each student shou
 
 ### Final Project
 The final project includes three components:
-* Proposal (March 19th via email)
+* Initial Proposal (October 10th via email)
+  * 2 pages, Single-spaced, 12 point font size, 1 inch margin
+  * Contains: Title, Introduction and Objectives, and Methodology
+* Proposal presentations (November 5th)
+  * 10 minute informal oral presentation
+  * Open discussion/feedback in class
+* Revised Proposal (October 10th via email)
   * 2 pages, Single-spaced, 12 point font size, 1 inch margin
   * Contains: Title, Introduction and Objectives, Methodology, and a timeline of tasks
-* Oral presentation (April 23rd-25th in class)*
-  * AGU style, 12 minute oral presentation, 3 minutes for questions
+* Oral presentation (December 3rd and 5th in class)*
+  * 20 minute oral presentation, 5 minutes for questions
   * Everyone needs to be present for each presentation
   
 ### Schedule
@@ -68,7 +74,7 @@ Note that the schedule is subject to change; changes will be announced in class 
 |10/01|Statistics I|Scipy|HW #5 due||
 |10/03|Statistics II|||TBD|
 |10/08|Fall Break|||
-|10/10|R overview|R/Rpy2|**Proposal due**|
+|10/10|R overview|R/Rpy2|**Initial proposal due**|
 |10/15|Spatial interpolation|gstat|HW #6 due|
 |10/17|Semivariogram|||TBD|
 |10/22|Kriging|||
