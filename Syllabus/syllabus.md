@@ -2,7 +2,7 @@
 ## Fall 2019
 
 ## Course Information
-Lectures are on Tuesdays and Thursdays from 11:45 AM - 1:00 PM in Teer 106. Course website on Github (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai.
+Lectures are on Tuesdays and Thursdays from 11:45 AM - 1:00 PM in Teer 106. Course website on GitHub (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai.
 
 ### Instructor
 Professor Nathaniel W. Chaney (Nate)  
