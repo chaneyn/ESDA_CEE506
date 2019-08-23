@@ -8,7 +8,7 @@ Lectures are on Tuesdays and Thursdays from 3:05 PM - 4:20 PM in Teer 106. Cours
 Professor Nathaniel W. Chaney (Nate)  
 Email: nathaniel.chaney@duke.edu  
 Office: FCIEMAS 2463  
-Office hours: By appointment (calendly.com/nathaniel-chaney)
+Office hours: By appointment on Friday mornings (calendly.com/nathaniel-chaney)
 
 ### TA
 Reza Momenifar  
