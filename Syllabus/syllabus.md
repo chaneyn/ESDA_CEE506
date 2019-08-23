@@ -80,8 +80,8 @@ Note that the schedule is subject to change; changes will be announced in class 
 |11/12|Principal Component Analysis|||
 |11/14|Clustering I||HW #8 due||
 |11/19|Clustering II|||TBD|
-|11/21|High performance computing I|dask|||
-|11/26|High performance computing II|mpi4py||
+|11/21|Code speed-up|numba/f2py|||
+|11/26|High performance computing|mpi4py/dask||
 |11/28|Thanksgiving Break|||
 |12/03|**Oral Presentations**|||
 |12/05|**Oral Presentations**|||
