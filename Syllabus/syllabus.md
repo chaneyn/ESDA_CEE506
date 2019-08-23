@@ -24,14 +24,14 @@ Although there are no class prerequisistes, a strong foundation in programming w
 ## Readings
 There are no required textbooks. Reading will be provided via journal articles, online materials, and tutorials
 
-## Grades and wfaorkload
+## Grades and workload
 The course grade is based on three items:
 * Homework: 40%
 * Participation: 20%
 * Final Project: 40%
 
 ### Homework
-There will be 8 homework assignments; these...
+There will be 9 homework assignments; these...
 
 ### Participation
 * Students should bring a laptop to class to follow along the lecture on their own jupyter lab Docker container that they are using for the course. 
@@ -44,15 +44,15 @@ Collaboration in completing assignments is permitted. However, each student shou
 ### Final Project
 The final project includes three components:
 * Initial Proposal (October 10th via email)
-  * 2 pages, Single-spaced, 12 point font size, 1 inch margin
-  * Contains: Title, Introduction and Objectives, and Methodology
+  * 1 page, Single-spaced, 12 point font size, 1 inch margin
+  * Contains: Title, motivation, and sketch of proposed methodology
 * Proposal presentations (November 5th)
   * 10 minute informal oral presentation
   * Open discussion/feedback in class
 * Revised Proposal (October 10th via email)
   * 2 pages, Single-spaced, 12 point font size, 1 inch margin
-  * Contains: Title, Introduction and Objectives, Methodology, and a timeline of tasks
-* Oral presentation (December 3rd and 5th in class)*
+  * Contains: Title, introduction, objectives, Methodology, and a timeline of tasks
+* Oral presentation (December 3rd and 5th in class)
   * 20 minute oral presentation, 5 minutes for questions
   * Everyone needs to be present for each presentation
   
