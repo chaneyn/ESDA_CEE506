@@ -79,16 +79,16 @@ Note that the schedule is subject to change; changes will be announced in class 
 |10/17|Semivariogram|||TBD|
 |10/22|Kriging|||
 |10/24|Conditional Simulation|||
-|10/29|Regression|Scikit-learn|HW #7 due||
-|10/31|Random Forests|||TBD|
+|10/29|Regression|Scikit-learn|||
+|10/31|Random Forests||||
 |11/05|**Proposal presentations**|||
 |11/07|Dimensionality Reduction||**Revised proposal due**|
-|11/12|Principal Component Analysis|||
-|11/14|Clustering I||HW #8 due||
-|11/19|Clustering II|||TBD|
+|11/12|Principal Component Analysis||HW #7 due|
+|11/14|Clustering I|||TBD|
+|11/19|Clustering II||||
 |11/21|Vector data|Shapely|||
 |11/26|Speed up code|Numba/Mpi4py/Dask||
 |11/28|Thanksgiving Break|||
 |12/03|**Oral Presentations**|||
 |12/05|**Oral Presentations**|||
-|12/16|**Written report due**||HW #9 due| 
+|12/16|**Written report due**||HW #8 due| 
