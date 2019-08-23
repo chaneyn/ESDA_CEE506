@@ -61,13 +61,13 @@ Note that the schedule is subject to change; changes will be announced in class 
 
 |Date|Topic|New Software|Assignments|Presentation|
 |:-:|:-:|:-:|:-:|:-:|
-|08/27|Introduction|Jupyter/Github/Terminal||
+|08/27|Introduction|Jupyter/GitHub/Bash||
 |08/29|Python overview|Python||
-|09/03|Multi-dimensional arrays I|Numpy|HW #1 due|
+|09/03|Multi-dimensional arrays I|NumPy|HW #1 due|
 |09/05|Visualizing data I|Matplotlib/Seaborn||Reza and Nate|
 |09/10|Raster data|Rasterio|HW #2 due||
 |09/12|Data storage|Pickle/H5py/NetCDF/Tiff||TBD|
-|09/17|Multi-dimensional arrays II|Xarray|HW #3 due||
+|09/17|Multi-dimensional arrays II|Pandas/Xarray|HW #3 due||
 |09/19|Coordinate systems|GDAL||TBD|
 |09/24|Coordinate transformations||HW #4 due||
 |09/26|Visualizing data II|Cartopy||TBD|
@@ -86,8 +86,8 @@ Note that the schedule is subject to change; changes will be announced in class 
 |11/12|Principal Component Analysis|||
 |11/14|Clustering I||HW #8 due||
 |11/19|Clustering II|||TBD|
-|11/21|Code speed-up|Numba/F2py/Cython|||
-|11/26|High performance computing|Mpi4py/Dask||
+|11/21|Vector data|shapely|||
+|11/26|Speed up code|Numba/Mpi4py/Dask||
 |11/28|Thanksgiving Break|||
 |12/03|**Oral Presentations**|||
 |12/05|**Oral Presentations**|||
