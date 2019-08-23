@@ -8,18 +8,19 @@ Lectures are on Tuesdays and Thursdays from 11:45 AM - 1:00 PM in Teer 106. Cour
 Professor Nathaniel W. Chaney (Nate)  
 Email: nathaniel.chaney@duke.edu  
 Office: FCIEMAS 2463  
-Office hours:  
+Office hours: By appointment (calendly.com/nathaniel-chaney)
 
 ### TA
 Reza Momenifar  
 Email: mohammadreza.momenifar@duke.edu  
 Office: FCIEMAS 2421  
+Office hours: 
 
 ## Course Description
 This course...
 
 ## Prerequisites
-Although there are no class prerequisistes, a strong foundation in programming will make this class much easier. Please contact me if you have concerns. 
+Although there are no class prerequisistes, a strong foundation in programming will make this class much easier. Please contact Nate if you have concerns. 
 
 ## Readings
 There are no required textbooks. Reading will be provided via journal articles, online materials, and tutorials
@@ -31,7 +32,7 @@ The course grade is based on three items:
 * Final Project: 40%
 
 ### Homework
-There will be 9 homework assignments; these...
+There will be 8 homework assignments; these...
 
 ### Participation
 * Students should bring a laptop to class to follow along the lecture on their own jupyter lab Docker container that they are using for the course. 
