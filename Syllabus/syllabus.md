@@ -1,8 +1,8 @@
-# CEE690-06: Environmental Spatial Data Analysis
+# CEE690-02: Environmental Spatial Data Analysis
 ## Fall 2019
 
 ## Course Information
-Lectures are on Tuesdays and Thursdays from 11:45 AM - 1:00 PM in Teer 106. Course website on GitHub (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai.
+Lectures are on Tuesdays and Thursdays from 3:05 PM - 4:20 PM in Teer 106. Course website is on GitHub (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai (CEE690.02.F19).
 
 ### Instructor
 Professor Nathaniel W. Chaney (Nate)  
@@ -14,10 +14,10 @@ Office hours: By appointment (calendly.com/nathaniel-chaney)
 Reza Momenifar  
 Email: mohammadreza.momenifar@duke.edu  
 Office: FCIEMAS 2421  
-Office hours: 
+Office hours: **MISSING**
 
 ## Course Description
-This course...
+This course... **MISSING**
 
 ## Prerequisites
 Although there are no class prerequisistes, a strong foundation in programming will make this class much easier. Please contact Nate if you have concerns. 
@@ -32,7 +32,7 @@ The course grade is based on three items:
 * Final Project: 40%
 
 ### Homework
-There will be 8 homework assignments; these...
+There will be 8 homework assignments; these... **MISSING**
 
 ### Participation
 * Students should bring a laptop to class to follow along the lecture on their own jupyter lab Docker container that they are using for the course. 
