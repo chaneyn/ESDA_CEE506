@@ -59,29 +59,29 @@ Note that the schedule is subject to change; changes will be announced in class 
 |08/29|Python overview|Python||
 |09/03|Multi-dimensional arrays I|Numpy|HW #1 due|
 |09/05|Visualizing data I|Matplotlib/Seaborn||Reza and Nate|
-|09/10|Raster data|Rasterio|HW #2 due|
+|09/10|Raster data|Rasterio|HW #2 due||
 |09/12|Data storage|Pickle/h5py/netCDF/Tiff||TBD|
-|09/17|Multi-dimensional arrays II|Xarray||TBD|
-|09/19|Coordinate systems|GDAL|HW #4 due|
-|09/24|Coordinate transformations|||TBD|
-|09/26|Visualizing data II|Cartopy|HW #3 due|
-|10/01|Data Analysis I|Scipy|HW #5 due|
-|10/03|Data Analysis II|||TBD|
+|09/17|Multi-dimensional arrays II|Xarray|HW #3||
+|09/19|Coordinate systems|GDAL||TBD|
+|09/24|Coordinate transformations||HW #4 due||
+|09/26|Visualizing data II|Cartopy||TBD|
+|10/01|Statistics I|Scipy|HW #5 due||
+|10/03|Statistics II|||TBD|
 |10/08|Fall Break|||
 |10/10|R overview|R/Rpy2||
 |10/15|Spatial interpolation|gstat|HW #6 due|
 |10/17|Semivariogram|||TBD|
 |10/22|Kriging|||
 |10/24|Conditional Simulation|||
-|10/29|Decision Trees/Random Forests|scikit-learn|HW #7 due|TBD|
-|10/31|Dimensionality Reduction|||
-|11/05|Principal Component Analysis|||
-|11/07|Clustering I|||
-|11/12|Clustering II||HW #8 due|
-|11/14||||TBD|
-|11/19||||
-|11/21||||
-|11/26|||HW #9 due||
+|10/29|Regression|scikit-learn|HW #7 due||
+|10/31|Random Forests|||TBD|
+|11/05|Dimensionality Reduction|||
+|11/07|Principal Component Analysis|||
+|11/12|Clustering I|||
+|11/14|Clustering II||HW #8 due|
+|11/19|High performance computing I|dask||TBD|
+|11/21|High performance computing II|mpi4py||
+|11/26|TBD||HW #9 due||
 |11/28|Thanksgiving Break|||
 |12/03|Oral Presentations|||
 |12/05|Oral Presentations|||
