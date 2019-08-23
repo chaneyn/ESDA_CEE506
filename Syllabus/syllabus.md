@@ -75,7 +75,7 @@ Note that the schedule is subject to change; changes will be announced in class 
 |10/03|Statistics II|||TBD|
 |10/08|Fall Break|||
 |10/10|R overview|R/Rpy2|**Initial proposal due**|
-|10/15|Spatial interpolation|Gstat|HW #6 due|
+|10/15|Geostatistics Introduction|Gstat|HW #6 due|
 |10/17|Semivariogram|||TBD|
 |10/22|Kriging|||
 |10/24|Conditional Simulation|||
