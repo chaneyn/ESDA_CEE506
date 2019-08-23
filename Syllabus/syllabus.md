@@ -75,7 +75,7 @@ Note that the schedule is subject to change; changes will be announced in class 
 |10/03|Statistics II|||TBD|
 |10/08|Fall Break|||
 |10/10|R overview|R/Rpy2|**Initial proposal due**|
-|10/15|Geostatistics Introduction|Gstat|HW #6 due|
+|10/15|Geostatistics Introduction|Gstat (R)|HW #6 due|
 |10/17|Semivariogram|||TBD|
 |10/22|Kriging|||
 |10/24|Conditional Simulation|||
@@ -86,7 +86,7 @@ Note that the schedule is subject to change; changes will be announced in class 
 |11/12|Principal Component Analysis|||
 |11/14|Clustering I||HW #8 due||
 |11/19|Clustering II|||TBD|
-|11/21|Vector data|shapely|||
+|11/21|Vector data|Shapely|||
 |11/26|Speed up code|Numba/Mpi4py/Dask||
 |11/28|Thanksgiving Break|||
 |12/03|**Oral Presentations**|||
