@@ -68,21 +68,21 @@ Note that the schedule is subject to change; changes will be announced in class 
 |10/01|Statistics I|Scipy|HW #5 due||
 |10/03|Statistics II|||TBD|
 |10/08|Fall Break|||
-|10/10|R overview|R/Rpy2|Preliminary Proposal due|
+|10/10|R overview|R/Rpy2|**Proposal due**|
 |10/15|Spatial interpolation|gstat|HW #6 due|
 |10/17|Semivariogram|||TBD|
 |10/22|Kriging|||
 |10/24|Conditional Simulation|||
 |10/29|Regression|scikit-learn|HW #7 due||
 |10/31|Random Forests|||TBD|
-|11/05|Proposal presentations|||
-|11/07|Dimensionality Reduction|||
+|11/05|**Proposal presentations**|||
+|11/07|Dimensionality Reduction||**Revised proposal due**|
 |11/12|Principal Component Analysis|||
 |11/14|Clustering I||HW #8 due||
 |11/19|Clustering II|||TBD|
 |11/21|High performance computing I|dask|||
-|11/26|High performance computing II|mpi4py|HW #9 due|
+|11/26|High performance computing II|mpi4py||
 |11/28|Thanksgiving Break|||
-|12/03|Oral Presentations|||
-|12/05|Oral Presentations|||
-|12/16|Written report due||| 
+|12/03|**Oral Presentations**|||
+|12/05|**Oral Presentations**|||
+|12/16|**Written report due**||| 
