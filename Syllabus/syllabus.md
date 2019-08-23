@@ -61,8 +61,8 @@ Note that the schedule is subject to change; changes will be announced in class 
 
 |Date|Topic|New Software|Assignments|Presentation|
 |:-:|:-:|:-:|:-:|:-:|
-|08/27|Introduction|Jupyter/Github/Python/Terminal||
-|08/29|Python overview|||
+|08/27|Introduction|Jupyter/Github/Terminal||
+|08/29|Python overview|Python||
 |09/03|Multi-dimensional arrays I|Numpy|HW #1 due|
 |09/05|Visualizing data I|Matplotlib/Seaborn||Reza and Nate|
 |09/10|Raster data|Rasterio|HW #2 due||
