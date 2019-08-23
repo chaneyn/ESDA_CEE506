@@ -23,7 +23,7 @@ This course... **MISSING**
 Although there are no class prerequisistes, a strong foundation in programming will make this class much easier. Please contact Nate if you have concerns. 
 
 ## Readings
-There are no required textbooks. Reading will be provided via journal articles, online materials, and tutorials
+There are no required textbooks. Reading will be provided via journal articles, online materials, and tutorials.
 
 ## Grades and workload
 The course grade is based on three items:
