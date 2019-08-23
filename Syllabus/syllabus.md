@@ -91,4 +91,4 @@ Note that the schedule is subject to change; changes will be announced in class 
 |11/28|Thanksgiving Break|||
 |12/03|**Oral Presentations**|||
 |12/05|**Oral Presentations**|||
-|12/16|**Written report due**|HW #9 due|| 
+|12/16|**Written report due**||HW #9 due| 
