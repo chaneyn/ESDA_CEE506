@@ -32,7 +32,7 @@ The course grade is based on three items:
 * Final Project: 40%
 
 ### Homework
-There will be 8 homework assignments. Each assignment will be provided and completed within a corresponding Jupyter notebook. Completed assignments will be submitted via a private GitHub repository that each student will have for the course; assignments submitted via any other method will not be accepted. Each assignment must be submitted before class on the day listed on the schedule below. One homework with the lowest grade will be dropped. Late homeworks will not be accepted.
+There will be 8 homework assignments. Each assignment will be provided and completed within a corresponding Jupyter notebook. Completed assignments will be submitted via a private GitHub repository that each student will have for the course; assignments submitted via any other method will not be accepted. Each assignment must be submitted before class on the day listed on the schedule below. One homework with the lowest grade will be dropped. Late homeworks will not be accepted. Solutions to the homeworks will be provided via Sakai.
 
 ### Participation
 * Students should bring a laptop to class to follow along the lecture on their personal jupyter lab Docker container that they will use for the course. 
