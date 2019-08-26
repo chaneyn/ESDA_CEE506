@@ -14,7 +14,7 @@ Office hours: By appointment on Friday mornings (calendly.com/nathaniel-chaney)
 Reza Momenifar  
 Email: mohammadreza.momenifar@duke.edu  
 Office: FCIEMAS 2421  
-Office hours: TBD
+Office hours: Mondays 8:00-10:00 AM
 
 ## Course Description
 This course provides an introduction on how to analyze and create Gigabytes to Terabytes of spatial environmental data using Python and R. The topics that will be covered include an overview of basic spatial statistics, spatial interpolation, kriging, conditional simulation, terrain analysis, dimensionality reduction, and spatial prediction. Existing software packages in Python and R will be introduced and used to explore the listed topics. 
