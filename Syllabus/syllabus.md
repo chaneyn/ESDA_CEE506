@@ -69,8 +69,8 @@ Note that the schedule is subject to change; changes will be announced in class 
 |09/10|Raster data|Rasterio|HW #2 due||
 |09/12|Data storage|Pickle/H5py/NetCDF/Tiff||TBD|
 |09/17|Multi-dimensional arrays II|Pandas/Xarray|HW #3 due||
-|09/19|Coordinate systems|GDAL||TBD|
-|09/24|Coordinate transformations||HW #4 due||
+|09/19|Map projections I|GDAL||TBD|
+|09/24|Map projections II||HW #4 due||
 |09/26|Visualizing data II|Cartopy||TBD|
 |10/01|Spatial statistics I|Scipy|HW #5 due||
 |10/03|Spatial statistics II|||TBD|
