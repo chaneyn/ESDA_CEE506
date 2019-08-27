@@ -43,7 +43,7 @@ There will be 8 homework assignments. Each assignment will be provided and compl
 Collaboration in completing assignments is permitted. However, each student must write up their assignment independently. We **will** be checking for identical homeworks. 
 
 ### Final Project
-The final project includes three components:
+The final project will be done in groups of 3-4 students and will involve the following components:
 * Initial Proposal (October 10th via email)
   * 1 page, Single-spaced, 12 point font size, 1 inch margin
   * Contains: Title, motivation, and sketch of proposed methodology
