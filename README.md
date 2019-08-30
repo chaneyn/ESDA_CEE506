@@ -13,7 +13,7 @@ Office hours: By appointment on Friday mornings (calendly.com/nathaniel-chaney)
 ### TA
 Reza Momenifar  
 Email: mohammadreza.momenifar@duke.edu  
-Office: FCIEMAS 2421  
+Office: 2431 CIEMAS  
 Office hours: Mondays 8:00-10:00 AM
 
 ## Course Description
