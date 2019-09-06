@@ -66,12 +66,12 @@ Note that the schedule is subject to change; changes will be announced in class 
 |08/29|Python overview|Python||
 |09/03|Multi-dimensional arrays I|NumPy|HW #1 due|
 |09/05|Visualizing data I|Matplotlib||Reza and Nate|
-|09/10|Raster data|Rasterio|HW #2 due||
-|09/12|Data storage|Pickle/H5py/NetCDF/Tiff||TBD|
-|09/17|Multi-dimensional arrays II|Pandas/Xarray|HW #3 due||
-|09/19|Map projections I|GDAL||TBD|
-|09/24|Map projections II||HW #4 due||
-|09/26|Visualizing data II|Cartopy||TBD|
+|09/10|Data storage|Pickle/H5py/NetCDF/Tiff|HW #2 due||
+|09/12|Raster data|Rasterio||TBD|
+|09/17|Map projections I|GDAL|HW #3 due||
+|09/19|Map projections II|||TBD|
+|09/24|Visualizing data II|Cartopy|HW #4 due||
+|09/26|Multi-dimensional arrays II|Pandas/Xarray||TBD|
 |10/01|Spatial statistics I|Scipy|HW #5 due||
 |10/03|Spatial statistics II|||TBD|
 |10/08|Fall Break|||
