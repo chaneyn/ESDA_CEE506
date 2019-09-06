@@ -65,13 +65,13 @@ Note that the schedule is subject to change; changes will be announced in class 
 |08/27|Introduction|Jupyter/GitHub/Bash||
 |08/29|Python overview|Python||
 |09/03|Multi-dimensional arrays I|NumPy|HW #1 due|
-|09/05|Visualizing data I|Matplotlib/Seaborn||Reza and Nate|
-|09/10|Raster data|Rasterio|HW #2 due||
-|09/12|Data storage|Pickle/H5py/NetCDF/Tiff||TBD|
-|09/17|Multi-dimensional arrays II|Pandas/Xarray|HW #3 due||
-|09/19|Map projections I|GDAL||TBD|
-|09/24|Map projections II||HW #4 due||
-|09/26|Visualizing data II|Cartopy||TBD|
+|09/05|Visualizing data I|Matplotlib||Reza and Nate|
+|09/10|Data storage|Pickle/H5py/NetCDF/Tiff|HW #2 due||
+|09/12|Raster data|Rasterio||TBD|
+|09/17|Map projections I|GDAL|HW #3 due||
+|09/19|Map projections II|||TBD|
+|09/24|Visualizing data II|Cartopy|HW #4 due||
+|09/26|Multi-dimensional arrays II|Pandas/Xarray||TBD|
 |10/01|Spatial statistics I|Scipy|HW #5 due||
 |10/03|Spatial statistics II|||TBD|
 |10/08|Fall Break|||
@@ -80,16 +80,16 @@ Note that the schedule is subject to change; changes will be announced in class 
 |10/17|Semivariogram|||TBD|
 |10/22|Kriging|||
 |10/24|Conditional Simulation|||
-|10/29|Spatial prediction I|Scikit-learn|||
-|10/31|Spatial prediction II||||
+|10/29|Spatial prediction I|Scikit-learn|HW #7 due||
+|10/31|Spatial prediction II|||TBD|
 |11/05|**Proposal presentations**|||
 |11/07|Dimensionality Reduction I||**Revised proposal due**|
-|11/12|Dimensionality Reduction II||HW #7 due|
-|11/14|Terrain Analysis I|TBD||TBD|
-|11/19|Terrain Analysis II||||
-|11/21|Vector data|Shapely|||
+|11/12|Dimensionality Reduction II|||
+|11/14|Terrain Analysis I|TBD|||
+|11/19|Terrain Analysis II||HW #8 due||
+|11/21|Vector data|Shapely||TBD|
 |11/26|Speed up code|Numba/Mpi4py/Dask||
 |11/28|Thanksgiving Break|||
 |12/03|**Oral Presentations**|||
 |12/05|**Oral Presentations**|||
-|12/16|**Written report due**||HW #8 due| 
+|12/16|**Written report due**||| 
