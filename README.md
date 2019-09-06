@@ -80,14 +80,14 @@ Note that the schedule is subject to change; changes will be announced in class 
 |10/17|Semivariogram|||TBD|
 |10/22|Kriging|||
 |10/24|Conditional Simulation|||
-|10/29|Spatial prediction I|Scikit-learn||HW #7 due|
+|10/29|Spatial prediction I|Scikit-learn|HW #7 due||
 |10/31|Spatial prediction II|||TBD|
 |11/05|**Proposal presentations**|||
 |11/07|Dimensionality Reduction I||**Revised proposal due**|
 |11/12|Dimensionality Reduction II|||
 |11/14|Terrain Analysis I|TBD|||
 |11/19|Terrain Analysis II||HW #8 due||
-|11/21|Vector data|Shapely|||TBD|
+|11/21|Vector data|Shapely||TBD|
 |11/26|Speed up code|Numba/Mpi4py/Dask||
 |11/28|Thanksgiving Break|||
 |12/03|**Oral Presentations**|||
