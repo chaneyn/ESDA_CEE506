@@ -67,16 +67,16 @@ Note that the schedule is subject to change; changes will be announced in class 
 |09/03|Multi-dimensional arrays I|NumPy|HW #1 due|
 |09/05|Visualizing data I|Matplotlib||Reza and Nate|
 |09/10|Data storage|Pickle/H5py/NetCDF/Tiff|HW #2 due||
-|09/12|Raster data|Rasterio||TBD|
-|09/17|Map projections I|GDAL|HW #3 due||
-|09/19|Map projections II|||TBD|
-|09/24|Visualizing data II|Cartopy|HW #4 due||
-|09/26|Multi-dimensional arrays II|Pandas/Xarray||TBD|
-|10/01|Spatial statistics I|Scipy|HW #5 due||
-|10/03|Spatial statistics II|||TBD|
+|09/12|Probability/Statistics I|Scipy||TBD|
+|09/17|Probability/Statistics II ||HW #3 due||
+|09/19|Probability/Statistics III |||TBD|
+|09/24|Map projections I|GDAL|HW #4 due||
+|09/26|Map projections II|||TBD|
+|10/01|Visualizing data II|Cartopy|HW #5 due||
+|10/03|Multi-dimensional arrays I|Xarray||TBD|
 |10/08|Fall Break|||
 |10/10|R overview|R/Rpy2|**Initial proposal due**|
-|10/15|Spatial statistics III|Gstat (R)|HW #6 due|
+|10/15|Geostatistics|Gstat (R)|HW #6 due|
 |10/17|Semivariogram|||TBD|
 |10/22|Kriging|||
 |10/24|Conditional Simulation|||
