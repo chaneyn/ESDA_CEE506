@@ -73,19 +73,19 @@ Note that the schedule is subject to change; changes will be announced in class 
 |09/24|Map projections I|Cartopy|HW #4 due||
 |09/26|Map projections II|GDAL||TBD|
 |10/01|Multi-dimensional arrays II|Xarray|||
-|10/03|Overview of spatial data||HW #5 due||
-|10/08|Fall Break|||
+|10/03|Overview of spatial data||||
+|10/08|Fall Break||HW #5 due|
 |10/10|R overview|R/Rpy2|**Initial proposal due**|TBD|
-|10/15|Geostatistics|Gstat (R)|HW #6 due|
-|10/17|Semivariogram|||TBD|
-|10/22|Kriging|||
-|10/24|Conditional Simulation|||
-|10/29|Spatial prediction I|Scikit-learn|HW #7 due||
-|10/31|Spatial prediction II|||TBD|
-|11/05|**Proposal presentations**|||
-|11/07|Dimensionality Reduction I||**Revised proposal due**|
-|11/12|Dimensionality Reduction II|||
-|11/14|Terrain Analysis I|TBD|||
+|10/15|Geostatistics|Gstat (R)||
+|10/17|Semivariogram||||
+|10/22|Kriging||HW #6 due|
+|10/24|Conditional Simulation|||TBD|
+|10/29|Spatial prediction I|Scikit-learn|||
+|10/31|Spatial prediction II||||
+|11/05|**Proposal presentations**||HW #7 due|
+|11/07|Dimensionality Reduction I|||TBD|
+|11/12|Dimensionality Reduction II||**Revised proposal due**||
+|11/14|Terrain Analysis I||||
 |11/19|Terrain Analysis II||HW #8 due||
 |11/21|Vector data|Shapely||TBD|
 |11/26|Speed up code|Numba/Mpi4py/Dask||
