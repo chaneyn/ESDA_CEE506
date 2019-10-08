@@ -75,21 +75,21 @@ Note that the schedule is subject to change; changes will be announced in class 
 |10/01|Multi-dimensional arrays II|Xarray|||
 |10/03|Overview of spatial data||||
 |10/08|Fall Break||HW #5 due|
-|10/10|R overview|R/Rpy2|**Initial proposal due**|TBD|
-|10/15|Geostatistics|Gstat (R)||
-|10/17|Semivariogram||||
-|10/22|Kriging||HW #6 due|
-|10/24|Conditional Simulation|||TBD|
-|10/29|Spatial prediction I|Scikit-learn|||
-|10/31|Spatial prediction II||||
-|11/05|**Proposal presentations**||HW #7 due|
-|11/07|Dimensionality Reduction I|||TBD|
-|11/12|Dimensionality Reduction II||**Revised proposal due**||
-|11/14|Terrain Analysis I||||
-|11/19|Terrain Analysis II||HW #8 due||
-|11/21|Vector data|Shapely||TBD|
-|11/26|Speed up code|Numba/Mpi4py/Dask||
+|10/10|Cluster Analysis I|Scikit-Learn|**Initial proposal due**|TBD|
+|10/15|Cluster Analysis II|||
+|10/17|Guest Lecture - Voronoi tessellation||||
+|10/22|Dimensionality Reduction|||
+|10/24|Classification/Regression I||||
+|10/29|Classification/Regression II|Scikit-learn|HW #6 due||
+|10/31|Classification/Regression III|||TBD|
+|11/05|**Proposal presentations**/R overview|R/Rpy2||
+|11/07|Geostatitics|Gstat|||
+|11/12|Semivariogram/Kriging||**Revised proposal due**|HW #7 due|
+|11/14|Conditional simulation|||TBD|
+|11/19|Terrain Analysis||||
+|11/21|Vector data|Shapely|||
+|11/26|Scaling up code|Numba/Mpi4py/Dask|HW #8 due|
 |11/28|Thanksgiving Break|||
-|12/03|**Oral Presentations**|||
+|12/03|**Oral Presentations**||TBD|
 |12/05|**Oral Presentations**|||
 |12/16|**Written report due**||| 
