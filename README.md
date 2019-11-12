@@ -82,12 +82,12 @@ Note that the schedule is subject to change; changes will be announced in class 
 |10/24|Classification/Regression I||||
 |10/29|Classification/Regression II||HW #6 due||
 |10/31|Classification/Regression III|||TBD|
-|11/05|**Proposal presentations**/R overview|R/Rpy2||
-|11/07|Geostatistics I|Gstat|||
+|11/05|**Proposal presentations**/Downloading data|||
+|11/07|Vector Data/Geostatistics I|OGR/Shapely/Fiona/R/Rpy2/Gstat|||
 |11/12|Geostatistics II||||
 |11/14|Geostatistics III||**Revised proposal due**/HW #7 due|TBD|
-|11/19|Terrain Analysis||||
-|11/21|Vector data|Shapely|||
+|11/19|Geostatistics IV||||
+|11/21|Terrain Analysis||||
 |11/26|Scaling up code|Numba/Mpi4py/Dask|HW #8 due|
 |11/28|Thanksgiving Break|||
 |12/03|**Oral Presentations**||TBD|
