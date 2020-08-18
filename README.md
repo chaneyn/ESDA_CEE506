@@ -1,23 +1,23 @@
 # CEE690-02: Environmental Spatial Data Analysis
-## Fall 2019
+## Fall 2020
 
 ## Course Information
-Lectures are on Tuesdays and Thursdays from 3:05 PM - 4:20 PM in Teer 106. The course website is on GitHub (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai (CEE690.02.F19).
+Lectures are on Tuesdays and Thursdays from 3:30 PM - 4:45 PM. The course website is on GitHub (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai (CEE690.02.F20).
 
 ### Instructor
 Professor Nathaniel W. Chaney (Nate)  
 Email: nathaniel.chaney@duke.edu  
 Office: FCIEMAS 2463  
-Office hours: By appointment on Friday mornings (calendly.com/nathaniel-chaney)
+Office hours: Thursdays after class via Zoom
 
 ### TA
-Reza Momenifar  
-Email: mohammadreza.momenifar@duke.edu  
-Office: 2431 CIEMAS  
-Office hours: Mondays 8:00-10:00 AM
+TBD  
+Email: TBD  
+Office: TBD  
+Office hours: TBD  
 
 ## Course Description
-This course provides an introduction on how to analyze and create Gigabytes to Terabytes of spatial environmental data using Python and R. The topics that will be covered include an overview of basic spatial statistics, spatial interpolation, kriging, conditional simulation, terrain analysis, dimensionality reduction, and spatial prediction. Existing software packages in Python and R will be introduced and used to explore the listed topics. 
+Environmental Spatial Data Analysis (ESDA) provides an introduction on how to leverage large volumes of spatial environmental data using primarily Python. The topics that will be covered include an overview of basic spatial statistics, spatial interpolation, kriging, conditional simulation, terrain analysis, dimensionality reduction, and spatial prediction. Existing software packages in Python will be introduced and used to explore the listed topics. 
 
 ## Prerequisites
 Although there are no class prerequisistes, a strong foundation in programming will make this class much easier. Please contact Nate if you have concerns. 
@@ -32,64 +32,58 @@ The course grade is based on three items:
 * Final Project: 40%
 
 ### Homework
-There will be 8 homework assignments. Each assignment will be provided and completed within a corresponding Jupyter notebook. Completed assignments will be submitted via a private GitHub repository that each student will have for the course; assignments submitted via any other method will not be accepted. Each assignment must be submitted before class on the day listed on the schedule below. One homework with the lowest grade will be dropped. Late homeworks will not be accepted. Solutions to the homeworks will be provided via Sakai.
+There will be 4 homework assignments. Each assignment will be provided and completed within a corresponding Jupyter notebook. Completed assignments will be submitted via a private GitHub repository that each student will have for the course; assignments submitted via any other method will not be accepted. Each assignment must be submitted before class on the day listed on the schedule below. Late homeworks will not be accepted. 
 
 ### Participation
-* Students should bring a laptop to class to follow along the lecture on their personal jupyter lab Docker container that they will use for the course. 
-* Most Tuesdays we will begin with a 15-30 minute review of the assignment turned in the previous week. Groups will present and discuss the solutions to the assignment. The number of students to present will vary depending on the length of the assignment. 
-* We will be using Piazza for most communication outside of class. This will facilitate interaction among the class members when completing the assignments.
+* Students should follow along the lecture on their personal jupyter lab Docker container that they will use for the course. 
+* Each student will present twice. The first presentation will involve describing a dataset and the second will be present a journal article. 
 
 ### Collaboration
 Collaboration in completing assignments is permitted. However, each student must write up their assignment independently. We **will** be checking for identical homeworks. 
 
 ### Final Project
-The final project will be done in groups of 3-4 students and will involve the following components:
-* Initial Proposal (October 10th via email)
-  * 1 page, Single-spaced, 12 point font size, 1 inch margin
-  * Contains: Title, motivation, and sketch of proposed methodology
-* Proposal presentations (November 5th)
-  * 10 minute informal oral presentation
-  * Open discussion/feedback in class
-* Revised Proposal (November 10th via email)
-  * 3 pages, Single-spaced, 12 point font size, 1 inch margin
-  * Contains: Title, introduction, objectives, Methodology, and a timeline of tasks
-* Oral presentation (December 3rd and 5th in class)
-  * 20 minute oral presentation, 5 minutes for questions
+The final project can be done in groups of 2 or individually. The expectations for the project will increase with the group size. It will involve the following components:
+* Initial Proposal (October 22nd via email)
+  * 3 pages max, single-spaced, 12 point font size, 1 inch margin
+  * Contains: Title, introduction, objectives, data, methodology, and timeline of tasks
+* Oral presentation (November 17th and 19th in class)
+  * 12 minute oral presentation, 3 minutes for questions
   * Everyone needs to be present for each presentation
+* Final report (November 24th via email)
+  * 10 pages max, single-spaced, 12 point font size, 1 inch margin
+  * Contains: Title, introduction, data, methods, results, discussion, and conclusion
   
 ### Schedule
-Note that the schedule is subject to change; changes will be announced in class and the online syllabus will be updated.
+Note that the schedule is subject to change.
 
 |Date|Topic|New Software|Assignments|Presentation|
 |:-:|:-:|:-:|:-:|:-:|
-|08/27|Introduction|Jupyter/GitHub/Bash||
-|08/29|Python overview|Python||
-|09/03|Multi-dimensional arrays I|NumPy|HW #1 due|
-|09/05|Visualizing data|Matplotlib||Reza and Nate|
-|09/10|Data storage|Pickle/H5py/NetCDF/Tiff|HW #2 due||
-|09/12|Probability/Statistics I|Scipy||TBD|
-|09/17|Probability/Statistics II||HW #3 due||
-|09/19|Time series analysis|||TBD|
-|09/24|Map projections I|Cartopy|HW #4 due||
-|09/26|Map projections II|GDAL||TBD|
-|10/01|Multi-dimensional arrays II|Xarray|||
-|10/03|Overview of spatial data||||
-|10/08|Fall Break||HW #5 due|
-|10/10|Cluster Analysis I|Scikit-Learn|**Initial proposal due**|TBD|
-|10/15|Cluster Analysis II|||
-|10/17|Guest Lecture - Voronoi tessellation||||
-|10/22|Dimensionality Reduction|||
-|10/24|Classification/Regression I||||
-|10/29|Classification/Regression II||HW #6 due||
-|10/31|Classification/Regression III|||TBD|
-|11/05|**Proposal presentations**/Downloading data|||
-|11/07|Vector Data/Geostatistics I|OGR/Shapely/Fiona/R/Rpy2/Gstat|||
-|11/12|Geostatistics II||||
-|11/14|Geostatistics III||**Revised proposal due**/HW #7 due|TBD|
-|11/19|Geostatistics IV||||
-|11/21|Terrain Analysis||||
-|11/26|Scaling up code|Numba/Mpi4py/Dask|HW #8 due|
-|11/28|Thanksgiving Break|||
-|12/03|**Oral Presentations**||TBD|
-|12/05|**Oral Presentations**|||
-|12/16|**Written report due**||| 
+|08/18|Introduction|Jupyter/GitHub/Bash|-|-|
+|08/20|Python overview|Python|-|-|
+|08/25|Multi-dimensional arrays I|NumPy|-|TBD|
+|08/27|Visualizing data|Matplotlib|-|TBD|
+|09/01|Data storage|Pickle/H5py/NetCDF/Tiff|-|TBD|
+|09/03|Probability/Statistics I|Scipy|-|TBD|
+|09/08|Probability/Statistics II|-|HW #1 due|-|
+|09/10|Time series analysis|-|-|TBD|
+|09/15|Map projections I|Cartopy|-|TBD|
+|09/17|Map projections II|GDAL|-|TBD|
+|09/22|Multi-dimensional arrays II/Downloading data|Xarray|-|TBD|
+|09/24|Vector Data|OGR/Shapely/Fiona|-|TBD|
+|09/29|Cluster Analysis I|Scikit-Learn|-|TBD|
+|10/01|Cluster Analysis II|-|-|TBD|
+|10/06|Dimensionality Reduction|-|HW #2 due|-|
+|10/08|Classification/Regression I|-|-|TBD|
+|10/13|Classification/Regression II|-|-|TBD|
+|10/15|Classification/Regression III|-|-|TBD|
+|10/20|Classification/Regression IV|-|-|TBD|
+|10/22|Geostatistics I|-|**Proposal due**|TBD|
+|10/27|Geostatistics II|-|HW #3 due|-|
+|10/29|Geostatistics III|-|-|TBD|
+|11/03|Geostatistics IV|-|-|TBD|
+|11/05|Terrain Analysis I|-|-|TBD|
+|11/10|Terrain Analysis II|-|-|TBD|
+|11/12|Scaling up code|Numba/Mpi4py/Dask|-|TBD|
+|11/17|**Oral Presentations**|-|-|-| 
+|11/19|**Oral Presentations**|-|-|-| 
+|11/24|**Written report due**|-|HW #4 due|-| 
