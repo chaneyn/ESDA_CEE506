@@ -55,10 +55,10 @@ The final project can be done in groups of 2 or individually. The expectations f
 ### Schedule
 Note that the schedule is subject to change.
 
-|Date|Topic|New Software|Assignments|Presentation|
+|Date|Topic|New Software|Assignments|Article|
 |:-:|:-:|:-:|:-:|:-:|
 |08/18|[Introduction](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Introduction.pdf)|Jupyter/GitHub/Bash|-|-|
-|08/20|[Python overview](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Python_Overview.ipynb)|Python|-|-|
+|08/20|[Python overview](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Python_Overview.ipynb)|Python|-|[Lin, J., 2012](https://journals.ametsoc.org/bams/article/93/12/1823/60266/Why-Python-Is-the-Next-Wave-in-Earth-Sciences)|
 |08/25|Multi-dimensional arrays I|NumPy|-|TBD|
 |08/27|Visualizing data|Matplotlib|-|TBD|
 |09/01|Data storage|Pickle/H5py/NetCDF/Tiff|-|TBD|
