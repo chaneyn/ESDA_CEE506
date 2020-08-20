@@ -58,8 +58,8 @@ Note that the schedule is subject to change.
 
 |Date|Topic|New Software|Assignments|Presentation|
 |:-:|:-:|:-:|:-:|:-:|
-|08/18|Introduction|Jupyter/GitHub/Bash|-|-|
-|08/20|Python overview|Python|-|-|
+|08/18|[Introduction]()|Jupyter/GitHub/Bash|-|-|
+|08/20|[Python overview](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Python_Overview.ipynb)|Python|-|-|
 |08/25|Multi-dimensional arrays I|NumPy|-|TBD|
 |08/27|Visualizing data|Matplotlib|-|TBD|
 |09/01|Data storage|Pickle/H5py/NetCDF/Tiff|-|TBD|
