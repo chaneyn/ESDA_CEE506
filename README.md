@@ -12,7 +12,7 @@ Office hours: Thursdays after class via Zoom
 
 ### TA
 Laura Torres  
-Email: laura.torres@duke.edu   
+Email: lpt14@duke.edu   
 Office hours: Mondays 8-10am via Zoom  
 
 ## Course Description
