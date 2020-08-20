@@ -11,10 +11,9 @@ Office: FCIEMAS 2463
 Office hours: Thursdays after class via Zoom
 
 ### TA
-TBD  
-Email: TBD  
-Office: TBD  
-Office hours: TBD  
+Laura Torres  
+Email: laura.torres@duke.edu   
+Office hours: Mondays 8a.m-10a.m via Zoom  
 
 ## Course Description
 Environmental Spatial Data Analysis (ESDA) provides an introduction on how to leverage large volumes of spatial environmental data using primarily Python. The topics that will be covered include an overview of basic spatial statistics, spatial interpolation, kriging, conditional simulation, terrain analysis, dimensionality reduction, and spatial prediction. Existing software packages in Python will be introduced and used to explore the listed topics. 
