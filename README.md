@@ -62,7 +62,7 @@ Note that the schedule is subject to change.
 |08/25|[Multi-dimensional arrays I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Numpy.ipynb)|NumPy|-|[Lu et al., 2018](https://www.mdpi.com/2220-9964/7/8/313/htm) (Owen Daly)|
 |08/27|Visualizing data|Matplotlib|-|[Rougier et al., 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) (Keqi He)|
 |09/01|Data storage|Pickle/H5py/NetCDF/Tiff|-|TBD|
-|09/03|Probability/Statistics I|Scipy|-|TBD|
+|09/03|Probability/Statistics I|Scipy|-|TBD (Celine Robinson)|
 |09/08|Probability/Statistics II|-|HW #1 due|TBD (Sarah Scott)|
 |09/10|Time series analysis|-|-|TBD|
 |09/15|Map projections I|Cartopy|-|TBD|
