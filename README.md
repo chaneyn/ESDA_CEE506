@@ -65,14 +65,14 @@ Note that the schedule is subject to change.
 |09/03|Probability/Statistics I|Scipy|-|TBD (Celine Robinson)|
 |09/08|Probability/Statistics II|-|HW #1 due|TBD (Sarah Scott)|
 |09/10|Time series analysis|-|-|TBD|
-|09/15|Map projections I|Cartopy|-|TBD|
+|09/15|Map projections I|Cartopy|-|TBD (Huda Aslam)|
 |09/17|Map projections II|GDAL|-|TBD|
 |09/22|Multi-dimensional arrays II/Downloading data|Xarray|-|TBD (Cary Shindell)|
 |09/24|Vector Data|OGR/Shapely/Fiona|-|TBD|
 |09/29|Cluster Analysis I|Scikit-Learn|-|TBD|
 |10/01|Cluster Analysis II|-|-|TBD|
 |10/06|Dimensionality Reduction|-|HW #2 due|-|
-|10/08|Classification/Regression I|-|-|TBD|
+|10/08|Classification/Regression I|-|-|TBD (Huda Aslam)|
 |10/13|Classification/Regression II|-|-|TBD|
 |10/15|Classification/Regression III|-|-|TBD|
 |10/20|Classification/Regression IV|-|-|TBD|
