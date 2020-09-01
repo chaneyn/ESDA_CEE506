@@ -65,8 +65,8 @@ Note that the schedule is subject to change.
 |09/03|Probability/Statistics I|Scipy|-|[Holmes, 2018](https://medium.com/planet-stories/the-explosion-of-geospatial-data-and-the-rise-of-deep-learning-b22aa8fef519) (Celine Robinson)|
 |09/08|Probability/Statistics II|-|HW #1 due|TBD (Sarah Scott)|
 |09/10|Time series analysis|-|-|TBD|
-|09/15|Map projections I|Cartopy|-|TBD (Huda Aslam)|
-|09/17|Map projections II|GDAL|-|TBD|
+|09/15|Map projections I|Cartopy|-|TBD (Lijia Gao)|
+|09/17|Map projections II|GDAL|-|TBD (Huda Aslam)|
 |09/22|Multi-dimensional arrays II/Downloading data|Xarray|-|TBD (Cary Shindell)|
 |09/24|Vector Data|OGR/Shapely/Fiona|-|TBD|
 |09/29|Cluster Analysis I|Scikit-Learn|-|TBD|
