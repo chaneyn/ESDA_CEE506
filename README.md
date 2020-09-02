@@ -64,11 +64,11 @@ Note that the schedule is subject to change.
 |09/01|[Data storage](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/DataStorage.ipynb)|Pickle/H5py/NetCDF/GeoTiff|-|[Extance, 2016](https://www.nature.com/news/how-dna-could-store-all-the-world-s-data-1.20496) (Laura Torres)|
 |09/03|Probability/Statistics I|Scipy|-|[Holmes, 2018](https://medium.com/planet-stories/the-explosion-of-geospatial-data-and-the-rise-of-deep-learning-b22aa8fef519) (Celine Robinson)|
 |09/08|Probability/Statistics II|-|HW #1 due|TBD (Sarah Scott)|
-|09/10|Time series analysis|-|-|TBD|
+|09/10|Probability/Statistics II|-|-|TBD (Gary Jiang)|
 |09/15|Map projections I|Cartopy|-|TBD (Lijia Gao)|
 |09/17|Map projections II|GDAL|-|TBD (Huda Aslam)|
 |09/22|Multi-dimensional arrays II/Downloading data|Xarray|-|TBD (Cary Shindell)|
-|09/24|Vector Data|OGR/Shapely/Fiona|-|TBD|
+|09/24|Vector Data|OGR/Shapely/Fiona|-|TBD (Rundong Ji)|
 |09/29|Cluster Analysis I|Scikit-Learn|-|TBD|
 |10/01|Cluster Analysis II|-|-|TBD|
 |10/06|Dimensionality Reduction|-|HW #2 due|-|
