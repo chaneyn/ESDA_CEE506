@@ -66,7 +66,7 @@ Note that the schedule is subject to change.
 |09/08|[Probability/Statistics II](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Intro2ProbabilityII.ipynb)|-|HW #1 due|[Walther and Moore, 2005](https://onlinelibrary.wiley.com/doi/10.1111/j.2005.0906-7590.04112.x) (Sarah Scott)|
 |09/10|[Bayesian Statistics](https://cee-az-00.oit.duke.edu:50000/notebooks/ESDA_CEE690-02/Lectures/BayesianStatistics.ipynb)|-|-|[Prathvikumar, 2019](https://towardsdatascience.com/intro-to-bayesian-statistics-5056b43d248d) (Gary Jiang)|
 |09/15|Map projections I|Cartopy|-|[Lapaine, 2017](https://link.springer.com/chapter/10.1007/978-3-319-51835-0_11) (Lijia Gao)|
-|09/17|Map projections II|GDAL|-|[Asay, 2020](https://thenewstack.io/gdal-the-open-source-technology-behind-google-maps/)[Simmon, 2017](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-1-a3253eb96082)(Huda Aslam)|
+|09/17|Map projections II|GDAL|-|[Asay, 2020](https://thenewstack.io/gdal-the-open-source-technology-behind-google-maps/) and [Simmon, 2017](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-1-a3253eb96082) (Huda Aslam)|
 |09/22|Multi-dimensional arrays II/Downloading data|Xarray|-|TBD (Cary Shindell)|
 |09/24|Vector Data|OGR/Shapely/Fiona|-|TBD (Rundong Ji)|
 |09/29|Cluster Analysis I|Scikit-Learn|-|TBD|
