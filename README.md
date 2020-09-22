@@ -74,13 +74,13 @@ Note that the schedule is subject to change.
 |10/06|Dimensionality Reduction|-|HW #2 due|-|
 |10/08|Classification/Regression I|-|-|TBD (Huda Aslam)|
 |10/13|Classification/Regression II|-|-|TBD (Sarah Scott)|
-|10/15|Classification/Regression III|-|-|TBD|
+|10/15|Classification/Regression III|-|-|TBD (Celine Robinson)|
 |10/20|Classification/Regression IV|-|-|TBD|
 |10/22|Geostatistics I|-|**Proposal due**|TBD|
 |10/27|Geostatistics II|-|HW #3 due|-|
 |10/29|Geostatistics III|-|-|TBD|
-|11/03|Geostatistics IV|-|-|TBD|
-|11/05|Terrain Analysis I|-|-|TBD|
+|11/03|Geostatistics IV|-|-|TBD (Lijia Gao)|
+|11/05|Terrain Analysis I|-|-|TBD (Keqi He)|
 |11/10|Terrain Analysis II|-|-|TBD|
 |11/12|Scaling up code|Numba/Mpi4py/Dask|-|TBD|
 |11/17|**Oral Presentations**|-|-|-| 
