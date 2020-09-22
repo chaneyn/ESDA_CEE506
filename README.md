@@ -73,7 +73,7 @@ Note that the schedule is subject to change.
 |10/01|Cluster Analysis II|-|-|TBD|
 |10/06|Dimensionality Reduction|-|HW #2 due|-|
 |10/08|Classification/Regression I|-|-|TBD (Huda Aslam)|
-|10/13|Classification/Regression II|-|-|TBD|
+|10/13|Classification/Regression II|-|-|TBD (Sarah Scott)|
 |10/15|Classification/Regression III|-|-|TBD|
 |10/20|Classification/Regression IV|-|-|TBD|
 |10/22|Geostatistics I|-|**Proposal due**|TBD|
