@@ -69,7 +69,7 @@ Note that the schedule is subject to change.
 |09/17|[Map projections II](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/MapProjectionsII.ipynb)|GDAL|-|[Asay, 2020](https://thenewstack.io/gdal-the-open-source-technology-behind-google-maps/) and [Simmon, 2017](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-1-a3253eb96082) (Huda Aslam)|
 |09/22|[Multi-dimensional arrays II](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/MultidimensionalArraysII.ipynb)|Xarray|-|[Hoyer and Hamman, 2017](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.148/) (Cary Shindell)|
 |09/24|Vector Data|OGR/Shapely/Fiona|-|[Kreveld, 2006](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.109.2967&rep=rep1&type=pdf#:~:text=The%20research%20area%20of%20computational,an%20algorithm%20solves%20a%20problem.&text=Many%20basic%20problems%20of%20computational,or%20indirect%20use%20to%20GIS.) (Rundong Ji)|
-|09/29|Cluster Analysis I|Scikit-Learn|-|TBD|
+|09/29|Cluster Analysis I|Scikit-Learn|-|(Peiran Wang)|
 |10/01|Cluster Analysis II|-|-|TBD|
 |10/06|Dimensionality Reduction|-|HW #2 due|-|
 |10/08|Classification/Regression I|-|-|TBD (Huda Aslam)|
