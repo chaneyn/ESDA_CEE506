@@ -67,20 +67,20 @@ Note that the schedule is subject to change.
 |09/10|[Bayesian Statistics](https://cee-az-00.oit.duke.edu:50000/notebooks/ESDA_CEE690-02/Lectures/BayesianStatistics.ipynb)|-|-|[Prathvikumar, 2019](https://towardsdatascience.com/intro-to-bayesian-statistics-5056b43d248d) (Gary Jiang)|
 |09/15|[Map projections I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/MapProjectionsI.ipynb)|Cartopy|-|[Lapaine, 2017](https://link.springer.com/chapter/10.1007/978-3-319-51835-0_11) (Lijia Gao)|
 |09/17|[Map projections II](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/MapProjectionsII.ipynb)|GDAL|-|[Asay, 2020](https://thenewstack.io/gdal-the-open-source-technology-behind-google-maps/) and [Simmon, 2017](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-1-a3253eb96082) (Huda Aslam)|
-|09/22|Multi-dimensional arrays II/Downloading data|Xarray|-|[Hoyer and Hamman, 2017](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.148/) (Cary Shindell)|
+|09/22|[Multi-dimensional arrays II](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/MultidimensionalArraysII.ipynb)|CDO/Xarray|-|[Hoyer and Hamman, 2017](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.148/) (Cary Shindell)|
 |09/24|Vector Data|OGR/Shapely/Fiona|-|[Kreveld, 2006](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.109.2967&rep=rep1&type=pdf#:~:text=The%20research%20area%20of%20computational,an%20algorithm%20solves%20a%20problem.&text=Many%20basic%20problems%20of%20computational,or%20indirect%20use%20to%20GIS.) (Rundong Ji)|
-|09/29|Cluster Analysis I|Scikit-Learn|-|TBD|
+|09/29|Cluster Analysis I|Scikit-Learn|-|TBD (Peiran Wang)|
 |10/01|Cluster Analysis II|-|-|TBD|
 |10/06|Dimensionality Reduction|-|HW #2 due|-|
 |10/08|Classification/Regression I|-|-|TBD (Huda Aslam)|
-|10/13|Classification/Regression II|-|-|TBD|
-|10/15|Classification/Regression III|-|-|TBD|
+|10/13|Classification/Regression II|-|-|TBD (Sarah Scott)|
+|10/15|Classification/Regression III|-|-|TBD (Celine Robinson)|
 |10/20|Classification/Regression IV|-|-|TBD|
 |10/22|Geostatistics I|-|**Proposal due**|TBD|
 |10/27|Geostatistics II|-|HW #3 due|-|
 |10/29|Geostatistics III|-|-|TBD|
-|11/03|Geostatistics IV|-|-|TBD|
-|11/05|Terrain Analysis I|-|-|TBD|
+|11/03|Geostatistics IV|-|-|TBD (Lijia Gao)|
+|11/05|Terrain Analysis I|-|-|TBD (Keqi He)|
 |11/10|Terrain Analysis II|-|-|TBD|
 |11/12|Scaling up code|Numba/Mpi4py/Dask|-|TBD|
 |11/17|**Oral Presentations**|-|-|-| 
