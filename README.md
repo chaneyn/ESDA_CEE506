@@ -72,7 +72,7 @@ Note that the schedule is subject to change.
 |09/29|Cluster Analysis I|Scikit-Learn|-|[Mishra, 2017](https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a) (Peiran Wang)|
 |10/01|Cluster Analysis II|-|-|-|
 |10/06|Dimensionality Reduction|-|HW #2 due|-|
-|10/08|Classification/Regression I|-|-|TBD (Huda Aslam)|
+|10/08|Classification/Regression I|-|-|[Homer et al., 2004](https://www.ingentaconnect.com/content/asprs/pers/2004/00000070/00000007/art00005#) (Huda Aslam)|
 |10/13|Classification/Regression II|-|-|TBD (Sarah Scott)|
 |10/15|Classification/Regression III|-|-|TBD (Celine Robinson)|
 |10/20|Classification/Regression IV|-|-|TBD|
