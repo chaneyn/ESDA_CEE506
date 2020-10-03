@@ -76,7 +76,7 @@ Note that the schedule is subject to change.
 |10/13|Classification/Regression II|-|-|TBD (Sarah Scott)|
 |10/15|Classification/Regression III|-|-|TBD (Celine Robinson)|
 |10/20|Classification/Regression IV|-|-|TBD|
-|10/22|Geostatistics I|-|**Proposal due**|TBD|
+|10/22|Geostatistics I|-|**Proposal due**|TBD (Gary Jiang)|
 |10/27|Geostatistics II|-|HW #3 due|-|
 |10/29|Geostatistics III|-|-|TBD|
 |11/03|Geostatistics IV|-|-|TBD (Lijia Gao)|
