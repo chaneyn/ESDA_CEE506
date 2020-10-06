@@ -71,7 +71,7 @@ Note that the schedule is subject to change.
 |09/24|[Vector Data](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/VectorData.ipynb)|OGR/Shapely/GeoPandas|-|[Kreveld, 2006](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.109.2967&rep=rep1&type=pdf#:~:text=The%20research%20area%20of%20computational,an%20algorithm%20solves%20a%20problem.&text=Many%20basic%20problems%20of%20computational,or%20indirect%20use%20to%20GIS.) (Rundong Ji)|
 |09/29|Cluster Analysis I|Scikit-Learn|-|[Mishra, 2017](https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a) (Peiran Wang)|
 |10/01|Cluster Analysis II|-|-|-|
-|10/06|Dimensionality Reduction|-|HW #2 due|-|
+|10/06|[Dimensionality Reduction](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/DimensionalityReduction.ipynb)|-|HW #2 due|-|
 |10/08|Classification/Regression I|-|-|[Homer et al., 2004](https://www.ingentaconnect.com/content/asprs/pers/2004/00000070/00000007/art00005#) (Huda Aslam)|
 |10/13|Classification/Regression II|-|-|TBD (Sarah Scott)|
 |10/15|Classification/Regression III|-|-|TBD (Celine Robinson)|
