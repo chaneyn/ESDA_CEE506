@@ -73,15 +73,15 @@ Note that the schedule is subject to change.
 |10/01|[Cluster Analysis II](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/ClusterAnalysisII.ipynb)|-|-|-|
 |10/06|[Dimensionality Reduction](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/DimensionalityReduction.ipynb)|-|HW #2 due|-|
 |10/08|Classification/Regression I|-|-|[Homer et al., 2004](https://www.ingentaconnect.com/content/asprs/pers/2004/00000070/00000007/art00005#) (Huda Aslam)|
-|10/13|Classification/Regression II|-|-|TBD (Sarah Scott)|
-|10/15|Classification/Regression III|-|-|TBD (Celine Robinson)|
-|10/20|Classification/Regression IV|-|-|TBD (Rundong Ji)|
+|10/13|No class|-|-|TBD |
+|10/15|Classification/Regression II|-|-|[Kaminska, J., 2018](https://www.sciencedirect.com/science/article/pii/S030147971830327X) (Sarah Scott)|
+|10/20|Classification/Regression III|-|-|[Cai, J., et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S0306261920300787) (Celine Robinson)|
 |10/22|Geostatistics I|-|**Proposal due**|TBD (Gary Jiang)|
 |10/27|Geostatistics II|-|HW #3 due|-|
 |10/29|Geostatistics III|-|-|TBD (Owen Daly)|
 |11/03|Geostatistics IV|-|-|TBD (Lijia Gao)|
 |11/05|Terrain Analysis I|-|-|TBD (Keqi He)|
-|11/10|Terrain Analysis II|-|-|TBD (Peiran Wang)|
+|11/10|Terrain Analysis II|-|-|TBD (Rundong Ji)|
 |11/12|Scaling up code|Numba/Mpi4py/Dask|-|TBD (Cary Shindell)|
 |11/17|**Oral Presentations**|-|-|-| 
 |11/19|**Oral Presentations**|-|-|-| 
