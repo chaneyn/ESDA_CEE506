@@ -72,7 +72,7 @@ Note that the schedule is subject to change.
 |09/29|[Cluster Analysis I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/ClusterAnalysisI.ipynb)|Scikit-Learn|-|[Mishra, 2017](https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a) (Peiran Wang)|
 |10/01|[Cluster Analysis II](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/ClusterAnalysisII.ipynb)|-|-|-|
 |10/06|[Dimensionality Reduction](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/DimensionalityReduction.ipynb)|-|HW #2 due|-|
-|10/08|[Classification/Regression I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/DecisionTrees.ipynb|-|-|[Homer et al., 2004](https://www.ingentaconnect.com/content/asprs/pers/2004/00000070/00000007/art00005#) (Huda Aslam)|
+|10/08|[Classification/Regression I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/DecisionTrees.ipynb)|-|-|[Homer et al., 2004](https://www.ingentaconnect.com/content/asprs/pers/2004/00000070/00000007/art00005#) (Huda Aslam)|
 |10/13|No class|-|-|TBD |
 |10/15|[Classification/Regression II](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/RandomForests.ipynb)|-|-|[Kaminska, J., 2018](https://www.sciencedirect.com/science/article/pii/S030147971830327X) (Sarah Scott)|
 |10/20|Classification/Regression III|-|-|[Cai, J., et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S0306261920300787) (Celine Robinson)|
