@@ -80,8 +80,8 @@ Note that the schedule is subject to change.
 |10/27|Geostatistics II|-|-|[Pouladi, N., et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0016706118319621?via%3Dihub) (Lijia Gao)|
 |10/29|Geostatistics III|-|-|[Hengl, T., et al., 2007](https://www.sciencedirect.com/science/article/pii/S0098300407001008?via%3Dihub) (Owen Daly)|
 |11/03|Geostatistics IV|-|HW #3 due|-|
-|11/05|Terrain Analysis I|-|-|TBD (Keqi He)|
-|11/10|Terrain Analysis II|-|-|-|
+|11/05|Terrain Analysis I|-|-|-|
+|11/10|Terrain Analysis II|-|-|TBD (Keqi He)|
 |11/12|Scaling up code|Numba/Mpi4py/Dask|-|TBD (Cary Shindell)|
 |11/17|**Oral Presentations**|-|-|-| 
 |11/19|**Oral Presentations**|-|-|-| 
