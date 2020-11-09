@@ -82,7 +82,7 @@ Note that the schedule is subject to change.
 |11/03|[Regression Kriging](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/RegressionKriging.ipynb)|-|HW #3 due|-|
 |11/05|[Terrain Analysis I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/TerrainAnalysisI.ipynb)|-|-|-|
 |11/10|Terrain Analysis II|-|-|[Moore, I., et al., 1991](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hyp.3360050103) (Keqi He)|
-|11/12|Scaling up code|Numba/Mpi4py/Dask|-|TBD (Cary Shindell)|
+|11/12|Scaling up code|Numba/Mpi4py/Dask|-|[Bakharia, A., 2018](https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b) and [Grover, P., 2018](https://towardsdatascience.com/speed-up-your-algorithms-part-2-numba-293e554c5cc1) (Cary Shindell)|
 |11/17|**Oral Presentations**|-|-|-| 
 |11/19|**Oral Presentations**|-|-|-| 
 |11/24|**Written report due**|-|HW #4 due|-| 
