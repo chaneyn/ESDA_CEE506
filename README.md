@@ -81,7 +81,7 @@ Note that the schedule is subject to change.
 |10/29|[Semivariogram](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Semivariogram.ipynb)|-|-|[Hengl, T., et al., 2007](https://www.sciencedirect.com/science/article/pii/S0098300407001008?via%3Dihub) (Owen Daly)|
 |11/03|[Regression Kriging](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/RegressionKriging.ipynb)|-|HW #3 due|-|
 |11/05|[Terrain Analysis I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/TerrainAnalysisI.ipynb)|-|-|-|
-|11/10|Terrain Analysis II|-|-|TBD (Keqi He)|
+|11/10|Terrain Analysis II|-|-|[Moore, I., et al., 1991](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hyp.3360050103) (Keqi He)|
 |11/12|Scaling up code|Numba/Mpi4py/Dask|-|TBD (Cary Shindell)|
 |11/17|**Oral Presentations**|-|-|-| 
 |11/19|**Oral Presentations**|-|-|-| 
