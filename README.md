@@ -76,11 +76,11 @@ Note that the schedule is subject to change.
 |10/13|No class|-|-|-|
 |10/15|[Random Forests](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/RandomForests.ipynb)|-|-|[Kaminska, J., 2018](https://www.sciencedirect.com/science/article/pii/S030147971830327X) (Sarah Scott)|
 |10/20|[Boosting](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Boosting.ipynb)|-|-|[Cai, J., et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S0306261920300787) (Celine Robinson)|
-|10/22|Geostatistics I|-|**Proposal due**|[Wong, D., et al., 2004](https://www.nature.com/articles/7500338) (Gary Jiang)|
-|10/27|Geostatistics II|-|-|[Pouladi, N., et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0016706118319621?via%3Dihub) (Lijia Gao)|
-|10/29|Geostatistics III|-|-|[Hengl, T., et al., 2007](https://www.sciencedirect.com/science/article/pii/S0098300407001008?via%3Dihub) (Owen Daly)|
-|11/03|Geostatistics IV|-|HW #3 due|-|
-|11/05|Terrain Analysis I|-|-|-|
+|10/22|[Simple Kriging](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/SimpleKriging.ipynb)|-|**Proposal due**|[Wong, D., et al., 2004](https://www.nature.com/articles/7500338) (Gary Jiang)|
+|10/27|[Ordinary Kriging](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/OrdinaryKriging.ipynb)|-|-|[Pouladi, N., et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0016706118319621?via%3Dihub) (Lijia Gao)|
+|10/29|[Semivariogram](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Semivariogram.ipynb)|-|-|[Hengl, T., et al., 2007](https://www.sciencedirect.com/science/article/pii/S0098300407001008?via%3Dihub) (Owen Daly)|
+|11/03|[Regression Kriging](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/RegressionKriging.ipynb)|-|HW #3 due|-|
+|11/05|[Terrain Analysis I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/TerrainAnalysisI.ipynb)|-|-|-|
 |11/10|Terrain Analysis II|-|-|TBD (Keqi He)|
 |11/12|Scaling up code|Numba/Mpi4py/Dask|-|TBD (Cary Shindell)|
 |11/17|**Oral Presentations**|-|-|-| 
