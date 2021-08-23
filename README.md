@@ -73,15 +73,15 @@ Note that the schedule is subject to change.
 |10/12|[Cluster Analysis II](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/ClusterAnalysisII.ipynb)|-|-|-|
 |10/14|[Dimensionality Reduction](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/DimensionalityReduction.ipynb)|-|HW #2 due|-|
 |10/19|[Decision Trees](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/DecisionTrees.ipynb)|-|-|[Homer et al., 2004](https://www.ingentaconnect.com/content/asprs/pers/2004/00000070/00000007/art00005#) (TBD)|
-|10/21|No class|-|-|-|
-|10/26|[Random Forests](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/RandomForests.ipynb)|-|-|[Kaminska, J., 2018](https://www.sciencedirect.com/science/article/pii/S030147971830327X) (TBD)|
-|10/28|[Boosting](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Boosting.ipynb)|-|-|[Cai, J., et al., 2020](https://www.sciencedirect.com/science/article/abs/pii/S0306261920300787) (TBD)|
+|10/21|[Random Forests/Boosting](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/RandomForests.ipynb)|-|-|[Kaminska, J., 2018, Cai, J., et al., 2020](https://www.sciencedirect.com/science/article/pii/S030147971830327X) (TBD)|
+|10/26|[Artificial Neural Networks]|-|-|-|
+|10/28|[Convolutional Neural Networks]|-|-|-|
 |11/02|[Simple Kriging](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/SimpleKriging.ipynb)|-|**Proposal due**|[Wong, D., et al., 2004](https://www.nature.com/articles/7500338) (TBD)|
 |11/04|[Ordinary Kriging](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/OrdinaryKriging.ipynb)|-|-|[Pouladi, N., et al., 2019](https://www.sciencedirect.com/science/article/abs/pii/S0016706118319621?via%3Dihub) (TBD)|
 |11/09|[Semivariogram](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Semivariogram.ipynb)|-|-|[Hengl, T., et al., 2007](https://www.sciencedirect.com/science/article/pii/S0098300407001008?via%3Dihub) (TBD)|
 |11/11|[Regression Kriging](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/RegressionKriging.ipynb)|-|HW #3 due|-|
-|11/16|[Terrain Analysis I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/TerrainAnalysisI.ipynb)|-|-|-|
-|11/18|Terrain Analysis II|-|-|[Moore, I., et al., 1991](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hyp.3360050103) (TBD)|
+|11/16|[Terrain Analysis I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/TerrainAnalysisI.ipynb)|-|-|[Moore, I., et al., 1991](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hyp.3360050103) (TBD)|
+|11/18|Visualization II|-|-||
 |11/23|Scaling up code|Numba/Mpi4py/Dask|-|[Bakharia, A., 2018](https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b) and [Grover, P., 2018](https://towardsdatascience.com/speed-up-your-algorithms-part-2-numba-293e554c5cc1) (TBD)|
 |11/17|**Oral Presentations**|-|-|-| 
 |11/19|**Oral Presentations**|-|-|-| 
