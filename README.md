@@ -2,7 +2,7 @@
 ## Fall 2021
 
 ## Course Information
-Lectures are on Tuesdays and Thursdays from 3:30 PM - 4:45 PM. The course website is on GitHub (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai (CEE690.02.F21).
+Lectures are on Tuesdays and Thursdays from 8:30 AM - 9:45 AM. The course website is on GitHub (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai (CEE690.02.F21).
 
 ### Instructor
 Professor Nathaniel W. Chaney (Nate)  
