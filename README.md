@@ -1,19 +1,19 @@
 # CEE690-02: Environmental Spatial Data Analysis
-## Fall 2020
+## Fall 2021
 
 ## Course Information
-Lectures are on Tuesdays and Thursdays from 3:30 PM - 4:45 PM. The course website is on GitHub (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai (CEE690.02.F20).
+Lectures are on Tuesdays and Thursdays from 3:30 PM - 4:45 PM. The course website is on GitHub (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai (CEE690.02.F21).
 
 ### Instructor
 Professor Nathaniel W. Chaney (Nate)  
 Email: nathaniel.chaney@duke.edu  
 Office: FCIEMAS 2463  
-Office hours: Thursdays after class via Zoom
+Office hours: TBD
 
 ### TA
-Laura Torres  
-Email: lpt14@duke.edu   
-Office hours: Mondays 8-10am via Zoom  
+Tyler Waterman 
+Email: tyler.waterman@duke.edu   
+Office hours: TBD  
 
 ## Course Description
 Environmental Spatial Data Analysis (ESDA) provides an introduction on how to leverage large volumes of spatial environmental data using primarily Python. The topics that will be covered include an overview of basic spatial statistics, spatial interpolation, kriging, conditional simulation, terrain analysis, dimensionality reduction, and spatial prediction. Existing software packages in Python will be introduced and used to explore the listed topics. 
@@ -26,9 +26,9 @@ There are no required textbooks. Reading will be provided via journal articles, 
 
 ## Grades and workload
 The course grade is based on three items:
-* Homework: 40%
+* Homework: 50%
 * Participation: 20%
-* Final Project: 40%
+* Final Project: 30%
 
 ### Homework
 There will be 4 homework assignments. Each assignment will be provided and completed within a corresponding Jupyter notebook. Completed assignments will be submitted via a private GitHub repository that each student will have for the course; assignments submitted via any other method will not be accepted. Each assignment must be submitted before class on the day listed on the schedule below. Late homeworks will not be accepted. 
@@ -59,7 +59,7 @@ Note that the schedule is subject to change.
 |:-:|:-:|:-:|:-:|:-:|
 |08/18|[Introduction](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Introduction.pdf)|Jupyter/GitHub/Bash|-|-|
 |08/20|[Python overview](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Python_Overview.ipynb)|Python|-|[Lin, J., 2012](https://journals.ametsoc.org/bams/article/93/12/1823/60266/Why-Python-Is-the-Next-Wave-in-Earth-Sciences)|
-|08/25|[Multi-dimensional arrays I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Numpy.ipynb)|NumPy|-|[Lu et al., 2018](https://www.mdpi.com/2220-9964/7/8/313/htm) (Owen Daly)|
+|08/25|[Multi-dimensional arrays I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Numpy.ipynb)|NumPy|-|[Lu et al., 2018](https://www.mdpi.com/2220-9964/7/8/313/htm) (TBD)|
 |08/27|[Visualizing data](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Visualizing_Data.ipynb)|Matplotlib|-|[Rougier et al., 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) (Keqi He)|
 |09/01|[Data storage](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/DataStorage.ipynb)|Pickle/H5py/NetCDF/GeoTiff|-|[Extance, 2016](https://www.nature.com/news/how-dna-could-store-all-the-world-s-data-1.20496) (Laura Torres)|
 |09/03|[Probability/Statistics I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Intro2ProbabilityI.ipynb)|Scipy|-|[Holmes, 2018](https://medium.com/planet-stories/the-explosion-of-geospatial-data-and-the-rise-of-deep-learning-b22aa8fef519) (Celine Robinson)|
