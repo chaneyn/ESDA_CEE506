@@ -42,7 +42,7 @@ Collaboration in completing assignments is permitted. However, each student must
 
 ### Final Project
 The final project can be done in groups of 2 or individually. The expectations for the project will increase with the group size. It will involve the following components:
-* Initial Proposal (October 22nd via email)
+* Proposal (November 2nd via email)
   * 3 pages max, single-spaced, 12 point font size, 1 inch margin
   * Contains: Title, introduction, objectives, data, methodology, and timeline of tasks
 * Oral presentation (November 17th and 19th in class)
@@ -83,6 +83,6 @@ Note that the schedule is subject to change.
 |11/16|[Terrain Analysis I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/TerrainAnalysisI.ipynb)|-|-|[Moore, I., et al., 1991](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hyp.3360050103) (TBD)|
 |11/18|Visualization II|-|-||
 |11/23|Scaling up code|Numba/Mpi4py/Dask|-|[Bakharia, A., 2018](https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b) and [Grover, P., 2018](https://towardsdatascience.com/speed-up-your-algorithms-part-2-numba-293e554c5cc1) (TBD)|
-|11/17|**Oral Presentations**|-|-|-| 
-|11/19|**Oral Presentations**|-|-|-| 
-|11/24|**Written report due**|-|HW #4 due|-| 
+|11/30|**Oral Presentations**|-|-|-| 
+|12/2|**Oral Presentations**|-|-|-| 
+|12/13|**Written report due**|-|HW #4 due|-| 
