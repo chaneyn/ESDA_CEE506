@@ -8,12 +8,13 @@ Lectures are on Tuesdays and Thursdays from 8:30 AM - 9:45 AM. The course websit
 Professor Nathaniel W. Chaney (Nate)  
 Email: nathaniel.chaney@duke.edu  
 Office: FCIEMAS 2463  
-Office hours: TBD
+Office hours: by reservation (calendly.com/nathaniel-chaney) Thursdays 12-2pm
 
 ### TA
 Tyler Waterman 
-Email: tyler.waterman@duke.edu   
-Office hours: TBD  
+Email: tyler.waterman@duke.edu
+Office hours location: 2431 CIEMAS (preferable in person, by zoom: https://duke.zoom.us/j/91286900464)
+Office hours: Tuesdays 2-3pm  
 
 ## Course Description
 Environmental Spatial Data Analysis (ESDA) provides an introduction on how to leverage large volumes of spatial environmental data using primarily Python. The topics that will be covered include an overview of basic spatial statistics, spatial interpolation, kriging, conditional simulation, terrain analysis, dimensionality reduction, and spatial prediction. Existing software packages in Python will be introduced and used to explore the listed topics. 
