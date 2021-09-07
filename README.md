@@ -11,9 +11,9 @@ Office: FCIEMAS 2463
 Office hours: by reservation (calendly.com/nathaniel-chaney) Thursdays 12-2pm
 
 ### TA
-Tyler Waterman 
-Email: tyler.waterman@duke.edu
-Office hours location: 2431 CIEMAS (preferable in person, by zoom: https://duke.zoom.us/j/91286900464)
+Tyler Waterman  
+Email: tyler.waterman@duke.edu  
+Office hours location: 2431 CIEMAS (preferable in person, by zoom: https://duke.zoom.us/j/91286900464)  
 Office hours: Tuesdays 2-3pm  
 
 ## Course Description
