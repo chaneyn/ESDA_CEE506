@@ -43,13 +43,13 @@ Collaboration in completing assignments is permitted. However, each student must
 
 ### Final Project
 The final project can be done in groups of 2 or individually. The expectations for the project will increase with the group size. It will involve the following components:
-* Proposal (November 2nd via email)
+* Proposal (November 8th via email)
   * 3 pages max, single-spaced, 12 point font size, 1 inch margin
   * Contains: Title, introduction, objectives, data, methodology, and timeline of tasks
-* Oral presentation (November 17th and 19th in class)
+* Oral presentation (December 6th in class)
   * 12 minute oral presentation, 3 minutes for questions
   * Everyone needs to be present for each presentation
-* Final report (November 24th via email)
+* Final report (December 19th via email)
   * 10 pages max, single-spaced, 12 point font size, 1 inch margin
   * Contains: Title, introduction, data, methods, results, discussion, and conclusion
   
