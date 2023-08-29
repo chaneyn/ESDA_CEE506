@@ -12,7 +12,7 @@ Office hours: by reservation (calendly.com/nathaniel-chaney) Thursdays 10am-12pm
 
 ### TA
 Luiz Bacelar 
-Email: luiz.bacelar@duke.edu
+Email: luiz.bacelar@duke.edu 
 Office hours location: TBD 
 Office hours: TBD 
 
@@ -36,7 +36,7 @@ There will be 4 homework assignments. Each assignment will be provided and compl
 
 ### Participation
 * Students should follow along the lecture on their personal jupyter lab Docker container that they will use for the course. 
-* Each student will present twice. The first presentation will involve describing a dataset and the second will be present a journal article. 
+* Each student will present once.
 
 ### Collaboration
 Collaboration in completing assignments is permitted. However, each student must write up their assignment independently. We **will** be checking for identical homeworks. 
@@ -63,7 +63,7 @@ Note that the schedule is subject to change.
 |09/06|[Multi-dimensional arrays I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Numpy.ipynb)|NumPy|-|[Lu et al., 2018](https://www.mdpi.com/2220-9964/7/8/313/htm) (Rongtian Pan)|
 |09/08|[Probability/Statistics I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Intro2ProbabilityI.ipynb)|Scipy|-|[Holmes, 2018](https://medium.com/planet-stories/the-explosion-of-geospatial-data-and-the-rise-of-deep-learning-b22aa8fef519) (Weiyi Qu)|
 |09/13|[Visualizing data](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Visualizing_Data.ipynb)|Matplotlib|-|[Rougier et al., 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) (Courtney Beckwith)|
-|09/15|[Data storage](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/DataStorage.ipynb)|Pickle/H5py/NetCDF/GeoTiff|-|[Extance, 2016](https://www.nature.com/news/how-dna-could-store-all-the-world-s-data-1.20496) (Haotian Li)|
+|09/15|[Data storage](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/DataStorage.ipynb)|Pickle/H5py/NetCDF/GeoTiff|-|-|
 |09/20|[Probability/Statistics II](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Intro2ProbabilityII.ipynb)|-|-|[Walther and Moore, 2005](https://onlinelibrary.wiley.com/doi/10.1111/j.2005.0906-7590.04112.x) (Ellie Kramer)|
 |09/22|[Bayesian Statistics](https://cee-az-00.oit.duke.edu:50000/notebooks/ESDA_CEE690-02/Lectures/BayesianStatistics.ipynb)|-|-|[Prathvikumar, 2019](https://towardsdatascience.com/intro-to-bayesian-statistics-5056b43d248d) (Zhukun Wang)|
 |09/27|[Map projections I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/MapProjectionsI.ipynb)|Cartopy|HW #1 due|[Lapaine, 2017](https://link.springer.com/chapter/10.1007/978-3-319-51835-0_11) (Kobi Talma)|
