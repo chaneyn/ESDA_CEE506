@@ -1,18 +1,18 @@
-# CEE690-02: Environmental Spatial Data Analysis
-## Fall 2022
+# CEE506: Environmental Spatial Data Analysis
+## Fall 2023
 
 ## Course Information
-Lectures are on Tuesdays and Thursdays from 8:30 AM - 9:45 AM. The course website is on GitHub (https://github.com/chaneyn/CEE690-02). Class announcements will be made via Sakai (CEE690.02.F22).
+Lectures are on Tuesdays and Thursdays from 8:30 AM - 9:45 AM. The course website is on GitHub (https://github.com/chaneyn/CEE506). Class announcements will be made via Sakai (CEE.506.01.F23).
 
 ### Instructor
 Professor Nathaniel W. Chaney (Nate)  
 Email: nathaniel.chaney@duke.edu  
 Office: FCIEMAS 2463  
-Office hours: by reservation (calendly.com/nathaniel-chaney) Tuesdays 10am-12pm
+Office hours: by reservation (calendly.com/nathaniel-chaney) Thursdays 10am-12pm
 
 ### TA
-Emma Xu 
-Email: chengcheng.xu@duke.edu  
+Luiz Bacelar 
+Email: luiz.bacelar@duke.edu
 Office hours location: TBD 
 Office hours: TBD 
 
@@ -42,14 +42,14 @@ There will be 4 homework assignments. Each assignment will be provided and compl
 Collaboration in completing assignments is permitted. However, each student must write up their assignment independently. We **will** be checking for identical homeworks. 
 
 ### Final Project
-The final project can be done in groups of 2 or individually. The expectations for the project will increase with the group size. It will involve the following components:
-* Proposal (November 8th via email)
+The final project can be done in groups or individually. The expectations for the project will increase with the group size. It will involve the following components:
+* Proposal (November 7th via email)
   * 3 pages max, single-spaced, 12 point font size, 1 inch margin
   * Contains: Title, introduction, objectives, data, methodology, and timeline of tasks
-* Oral presentation (December 6th in class)
+* Oral presentation (December 7th in class)
   * 12 minute oral presentation, 3 minutes for questions
   * Everyone needs to be present for each presentation
-* Final report (December 19th via email)
+* Final report (December 18th via email)
   * 10 pages max, single-spaced, 12 point font size, 1 inch margin
   * Contains: Title, introduction, data, methods, results, discussion, and conclusion
   
@@ -58,8 +58,8 @@ Note that the schedule is subject to change.
 
 |Date|Topic|New Software|Assignments|Article|
 |:-:|:-:|:-:|:-:|:-:|
-|08/30|[Introduction](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Introduction.pdf)|Jupyter/GitHub/Bash|-|-|
-|09/01|[Python overview](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Python_Overview.ipynb)|Python|-|[Lin, J., 2012](https://journals.ametsoc.org/bams/article/93/12/1823/60266/Why-Python-Is-the-Next-Wave-in-Earth-Sciences)  
+|08/29|[Introduction](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Introduction.pdf)|Jupyter/GitHub/Bash|-|-|
+|08/31|[Python overview](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Python_Overview.ipynb)|Python|-|[Lin, J., 2012](https://journals.ametsoc.org/bams/article/93/12/1823/60266/Why-Python-Is-the-Next-Wave-in-Earth-Sciences)  
 |09/06|[Multi-dimensional arrays I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Numpy.ipynb)|NumPy|-|[Lu et al., 2018](https://www.mdpi.com/2220-9964/7/8/313/htm) (Rongtian Pan)|
 |09/08|[Probability/Statistics I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Intro2ProbabilityI.ipynb)|Scipy|-|[Holmes, 2018](https://medium.com/planet-stories/the-explosion-of-geospatial-data-and-the-rise-of-deep-learning-b22aa8fef519) (Weiyi Qu)|
 |09/13|[Visualizing data](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Visualizing_Data.ipynb)|Matplotlib|-|[Rougier et al., 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) (Courtney Beckwith)|
