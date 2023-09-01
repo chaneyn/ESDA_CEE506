@@ -11,10 +11,10 @@ Office: FCIEMAS 2463
 Office hours: by reservation (calendly.com/nathaniel-chaney) Thursdays 10am-12pm
 
 ### TA
-Luiz Bacelar  
-Email: luiz.bacelar@duke.edu  
-Office hours location: TBD  
-Office hours: TBD  
+Luiz Bacelar
+Email: luiz.bacelar@duke.edu
+Office hours location: CIEMAS 2431
+Office hours: Tue/Thu 1-2 p.m. 
 
 ## Course Description
 Environmental Spatial Data Analysis (ESDA) provides an introduction on how to leverage large volumes of spatial environmental data using primarily Python. The topics that will be covered include an overview of basic spatial statistics, spatial interpolation, kriging, conditional simulation, terrain analysis, dimensionality reduction, and spatial prediction. Existing software packages in Python will be introduced and used to explore the listed topics. 
