@@ -49,7 +49,7 @@ The final project can be done in groups or individually. The expectations for th
 * Oral presentation (December 7th in class)
   * 12 minute oral presentation, 3 minutes for questions
   * Everyone needs to be present for each presentation
-* Final report (December 16th via email)
+* Final report (December 18th via email)
   * 10 pages max, single-spaced, 12 point font size, 1 inch margin
   * Contains: Title, introduction, data, methods, results, discussion, and conclusion
   
