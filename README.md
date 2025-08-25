@@ -8,7 +8,7 @@ Lectures are on Tuesdays and Thursdays from 8:30 AM - 9:45 AM. The course websit
 Professor Nathaniel W. Chaney (Nate)  
 Email: nathaniel.chaney@duke.edu  
 Office: FCIEMAS 2463  
-Office hours: by reservation (calendly.com/nathaniel-chaney) Tuesdays 10am-12pm
+Office hours: by reservation (calendly.com/nathaniel-chaney) Thursdays 10am-12pm
 
 ### TA
 Daniel Guyumus Preciado  
