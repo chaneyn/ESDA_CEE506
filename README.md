@@ -1,8 +1,8 @@
 # CEE506: Environmental Spatial Data Analysis
-## Fall 2024
+## Fall 2025
 
 ## Course Information
-Lectures are on Tuesdays and Thursdays from 8:30 AM - 9:45 AM. The course website is on GitHub (https://github.com/chaneyn/CEE506). Class announcements will be made via Canvas (CEE 506.01.Fa24).
+Lectures are on Tuesdays and Thursdays from 8:30 AM - 9:45 AM. The course website is on GitHub (https://github.com/chaneyn/CEE506). Class announcements will be made via Canvas (CEE 506.01.Fa25).
 
 ### Instructor
 Professor Nathaniel W. Chaney (Nate)  
@@ -11,10 +11,10 @@ Office: FCIEMAS 2463
 Office hours: by reservation (calendly.com/nathaniel-chaney) Tuesdays 10am-12pm
 
 ### TA
-Jiaxuan Cai  
-Email: jiaxuan.cai@duke.edu  
-Office hours location: CIEMAS 2431  
-Office hours: Mondays 10am-12pm  
+Daniel Guyumus Preciado  
+Email: daniel.guyumus.preciado@duke.edu 
+Office hours location: TBD 
+Office hours: TBD
 
 ## Course Description
 Environmental Spatial Data Analysis (ESDA) provides an introduction on how to leverage large volumes of spatial environmental data using primarily Python. The topics that will be covered include an overview of basic spatial statistics, spatial interpolation, kriging, conditional simulation, terrain analysis, dimensionality reduction, and spatial prediction. Existing software packages in Python will be introduced and used to explore the listed topics. 
@@ -27,16 +27,20 @@ There are no required textbooks. Reading will be provided via journal articles, 
 
 ## Grades and workload
 The course grade is based on three items:
-* Homework: 60%
+* Homework: 55%
+* Final Project: 25%
+* Quizzes: 10%
 * Participation: 10%
-* Final Project: 30%
+
 
 ### Homework
 There will be 4 homework assignments. Each assignment will be provided and completed within a corresponding Jupyter notebook. Completed assignments will be submitted via a private GitHub repository that each student will have for the course; assignments submitted via any other method will not be accepted. Each assignment must be submitted before class on the day listed on the schedule below. Late homeworks will not be accepted. 
 
+### Quizzes
+There will be 4 quizzes; one after each homework assignment is due. These 30 min quizzes will be closed book/closed notes and will be based around the previous homework. You are expected to write pseudo-code in Python to answer the questions.  
+
 ### Participation
 * Students should follow along the lecture on their personal jupyter lab Docker container that they will use for the course. 
-* Each student will present once.
 
 ### Collaboration
 Collaboration in completing assignments is permitted. However, each student must write up their assignment independently. We **will** be checking for identical homeworks. 
