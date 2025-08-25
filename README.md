@@ -60,9 +60,9 @@ The final project can be done in groups or individually. The expectations for th
 ### Schedule
 Note that the schedule is subject to change.
 
-|Date|Topic|New Software|Assignments|Article|
-|:-:|:-:|:-:|:-:|:-:|
-|08/27|[Introduction](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Introduction.pdf)|Jupyter/GitHub/Bash|-|-|
+|Date|Topic|New Software|Assignments|
+|:-:|:-:|:-:|:-:|
+|08/27|[Introduction](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Introduction.pdf)|Jupyter/GitHub/Bash|-|
 |08/29|[Python overview](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Python_Overview.ipynb)|Python|-|-| 
 |09/03|[Multi-dimensional arrays I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Numpy.ipynb)|NumPy|HW #0 due|-|
 |09/05|[Probability/Statistics I](https://github.com/chaneyn/ESDA_CEE690-02/blob/master/Lectures/Intro2ProbabilityI.ipynb)|Scipy|-|[Holmes, 2018](https://medium.com/planet-stories/the-explosion-of-geospatial-data-and-the-rise-of-deep-learning-b22aa8fef519) (TBD)|
