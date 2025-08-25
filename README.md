@@ -12,8 +12,8 @@ Office hours: by reservation (calendly.com/nathaniel-chaney) Tuesdays 10am-12pm
 
 ### TA
 Daniel Guyumus Preciado  
-Email: daniel.guyumus.preciado@duke.edu 
-Office hours location: TBD 
+Email: daniel.guyumus.preciado@duke.edu  
+Office hours location: TBD  
 Office hours: TBD
 
 ## Course Description
@@ -47,13 +47,13 @@ Collaboration in completing assignments is permitted. However, each student must
 
 ### Final Project
 The final project can be done in groups or individually. The expectations for the project will increase with the group size. It will involve the following components:
-* Proposal (November 7th via email)
+* Proposal (11/04 via email)
   * 3 pages max, single-spaced, 12 point font size, 1 inch margin
   * Contains: Title, introduction, objectives, data, methodology, and timeline of tasks
-* Oral presentation (December 7th in class)
+* Oral presentation (12/2-12/4 in class)
   * 12 minute oral presentation, 3 minutes for questions
   * Everyone needs to be present for each presentation
-* Final report (December 18th via email)
+* Final report (12/15 via email)
   * 10 pages max, single-spaced, 12 point font size, 1 inch margin
   * Contains: Title, introduction, data, methods, results, discussion, and conclusion
   
