@@ -34,7 +34,7 @@ The course grade is based on three items:
 
 
 ### Homework
-There will be 4 homework assignments. Each assignment will be provided and completed within a corresponding Jupyter notebook. Completed assignments will be submitted via a private GitHub repository that each student will have for the course; assignments submitted via any other method will not be accepted. Each assignment must be submitted before class on the day listed on the schedule below. Late homeworks will not be accepted. 
+There will be 4 homework assignments. Each assignment will be provided and completed within a corresponding Jupyter notebook. Completed assignments will be submitted via a private GitHub repository that each student will have for the course; assignments submitted via any other method will not be accepted. Each assignment must be submitted by 11:59 pm on the day listed on the schedule below. If it is not turned in on time, there will be a 10% deduction for each day that it is late; this deduction applies at 00:00 am of each late day. 
 
 ### Quizzes
 There will be 4 quizzes; one after each homework assignment is due. These 30 min quizzes will be closed book/closed notes and will be based around the previous homework. You are expected to write pseudo-code in Python to answer the questions.  
