@@ -16,7 +16,7 @@ Email: daniel.guyumus.preciado@duke.edu
 Office hours location: FCIEMAS 2431  
 Office hours: Fridays 10am-12pm
 
-Cameron Moore
+Cameron Moore  
 Email: cameron.moore@duke.edu  
 Office hours location: FCIEMAS 2431  
 Office hours: Mondays 3-5pm
